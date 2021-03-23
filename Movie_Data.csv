@@ -1,0 +1,862 @@
+Movie,Box_office_crores,Budget_crores,Certificate,Release_Date,Run_time_mins,Director,Producer,Lead_Actor1,Lead_Actor2,Lead_Actor3,Genre1,Genre2,Genre3
+sanju,334,96,U/A,12-Apr-19,161,Rajkumar Hirani,Rajkumar Hirani,Anushka Sharma,Sonam Kapoor,Ranbir Kapoor,Biography,Drama,NA
+3-idiots,201,77,U/A,24-Dec-09,171,Rajkumar Hirani,Vidhu Vinod Chopra,Aamir Khan,R Madhavan,Kareena Kapoor Khan,Adventure,Comedy,Drama
+black-friday,4,4,U/A,9-Feb-07,143,Anurag Kashyap,Arindam Mitra,Kay Kay Menon,Nawazuddin Siddiqui,Kishore Kadam,Action,Crime,Drama
+andhadhun,73,32,U/A,5-Oct-18,139,Sriram Raghavan,Sanjay Routray,Tabu Hashmi,Ayushmann Khurrana,Radhika Apte,Comedy,Romance,Thriller
+rang-de-basanti,53,28,U/A,26-Jan-06,171,Rakeysh Omprakash Mehra,David Reid,Aamir Khan,Siddharth Narayan,R Madhavan,Comedy,Drama,History
+bhaag-milkha-bhaag,109,53,U,11-Jul-13,187,Rakeysh Omprakash Mehra,Rakeysh Omprakash Mehra,Sonam Kapoor,Prakash Raj,Farhan Akhtar,Biography,Drama,History
+uri-the-surgical-strike,342,25,U/A,11-Jan-19,138,Aditya Dhar,Ronnie Screwvala,Yami Gautam,Kirti Kulhari,Vicky Kaushal,Action,Drama,War
+gangs-of-wasseypur,27,9,A,2-Aug-12,160,Anurag Kashyap,Anurag Kashyap,Richa Chadda,Manoj Bajpayee,Rajkummar Rao,Action,Crime,Drama
+tumbbad,12,15,A,12-Oct-18,104,Rahi Anil Barve,Aanand L Rai,Anita Date,Mohd Samad,Sohum Shah,Thriller,Horror,Mystery
+nil-battey-sannata,5,7,U,22-Apr-16,100,Ashwini Iyer Tiwari,Ajay Rai,Ria Shukla,Neha Prajapati,Prashant Tiwari,Drama,Family,NA
+lage-raho-munna-bhai,74,19,U,1-Sep-06,145,Rajkumar Hirani,Vidhu Vinod Chopra,Vidya Balan,Sanjay Dutt,Abhishek Bachchan,Comedy,Drama,Fantasy
+dil-chahta-hai1,20,14,U,10-Aug-01,183,Farhan Akhtar,Farhan Akhtar,Aamir Khan,Saif Ali Khan,Akshaye Khanna,Comedy,Drama,Romance
+zindagi-na-milegi-dobara,89,60,U,15-Jul-11,146,Zoya Akhtar,Farhan Akhtar,Hrithik Roshan,Katrina Kaif,Naseeruddin Shah,Adventure,Comedy,Drama
+pk,337,122,U/A,18-Dec-14,153,Rajkumar Hirani,Vidhu Vinod Chopra,Sushant Singh Rajput,Anushka Sharma,Aamir Khan,Comedy,Drama,Fantasy
+omkara,23,26,A,28-Jul-06,150,Vishal Bhardwaj,Kumar Mangat Pathak,Ajay Devgan,Saif Ali Khan,Kareena Kapoor Khan,Action,Crime,Drama
+dilwale-dulhania-le-jayenge,53,4,U,20-Oct-95,192,Aditya Chopra,Yash Chopra,Kajol Devgn,Shah Rukh Khan,Anupam Kher,Comedy,Drama,Musical
+haider,49,48,U/A,2-Oct-14,162,Vishal Bhardwaj,Vishal Bhardwaj,Shahid Kapoor,Shraddha Kapoor,Irrfan Khan,Action,Crime,Drama
+article-151,65,30,U/A,27-Jun-19,130,Anubhav Sinha,Anubhav Sinha,Ayushmann Khurrana,Sayani Gupta,Mohammed Zeeshan Ayyub,Crime,Drama,Thriller
+chhichhore,147,53,U/A,6-Sep-19,135,Nitesh Tiwari,Sajid Nadiadwala,Sushant Singh Rajput,Shraddha Kapoor,Tahir Raj Bhasin,Drama,Comedy,NA
+swades-we-the-people,16,22,U,17-Dec-04,194,Ashutosh Gowariker,Ashutosh Gowariker,Shah Rukh Khan,Gayatri Joshi,Bharath Gopi,Drama,Family,Romance
+talvar,30,17,U/A,1-Oct-15,132,Meghna Gulzar,Vishal Bhardwaj,Irrfan Khan,Tabu Hashmi,Konkona Sen Sharma,Biography,Crime,Drama
+barfi,105,50,U,14-Sep-12,150,Anurag Basu,Anurag Basu,Ileana D'cruz,Priyanka Chopra,Ranbir Kapoor,Adventure,Comedy,Drama
+shahid,1,6,A,18-Oct-13,129,Hansal Mehta,Anurag Kashyap,Rajkummar Rao,Kay Kay Menon,Mohammed Zeeshan Ayyub,Biography,Crime,Drama
+masaan,3,8,A,24-Jul-15,109,Neeraj Ghaywan,Anurag Kashyap,Richa Chadda,Vicky Kaushal,Niharika Raizada,Drama,Romance,Crime
+drishyam1,68,62,U/A,30-Jul-15,163,Nishikant Kamat,Abhishek Pathak,Ajay Devgan,Tabu Hashmi,Shriya Saran,Crime,Drama,Mystery
+paan-singh-tomar,14,7,U/A,2-Mar-12,134,Tigmanshu Dhulia,Ronnie Screwvala,Irrfan Khan,Hemendra Dandotiya,Jhakkad Guru,Action,Biography,Crime
+kal-ho-naa-ho,38,28,U,28-Nov-03,188,Nikhil Advani,Karan Johar,Ron Reid Jr,Rani Mukerji,Saif Ali Khan,Comedy,Drama,Romance
+gully-boy,134,84,U/A,14-Feb-19,153,Zoya Akhtar,Farhan Akhtar,Ranveer Singh,Alia Bhatt,Kalki Koechlin,Adventure,Comedy,Drama
+bajrangi-bhaijaan,315,125,U/A,17-Jul-15,159,Kabir Khan,Sunil Lulla,Salman Khan,Kareena Kapoor Khan,Shahnawaz Bhat,Action,Adventure,Comedy
+omg-oh-my-god,122,20,U,28-Sep-12,132,Umesh Shukla,Ashvini Yardi,Akshay Kumar,Sonakshi Sinha,Mithun Chakraborty,Comedy,Drama,Family
+company,13,9,A,15-Apr-02,151,Ram Gopal Varma,Ram Gopal Varma,Mohanlal Viswanathan,Ajay Devgan,Manisha Koirala,Action,Crime,Drama
+kahaani,57,20,U/A,8-Mar-12,122,Sujoy Ghosh,Sujoy Ghosh,Parambrata Chatterjee,Vidya Balan,Saurav Das,Drama,Mystery,Thriller
+maqbool,2,3,A,30-Jan-04,138,Vishal Bhardwaj,Bobby Bedi,Irrfan Khan,Tabu Hashmi,Naseeruddin Shah,Crime,Drama,Thriller
+section-3751,10,17,U/A,13-Sep-19,135,Ajay Bahl,Bhushan Kumar,Rahul Bhat,Vibhawari Deshpande,Kruttika Desai,Drama,Crime,NA
+pink-iii,65,29,U/A,16-Sep-16,136,Aniruddha Roy Chowdhury,Shoojit Sircar,Amitabh Bachchan,Andrea Tariang,Taapsee Pannu,Crime,Drama,Thriller
+a-wednesday,11,3,U/A,5-Sep-08,104,Neeraj Pandey,Ronnie Screwvala,Jimmy Shergill,Naseeruddin Shah,Anupam Kher,Crime,Drama,Mystery
+my-name-is-khan,72,85,U/A,12-Feb-10,161,Karan Johar,Gauri Khan,Kajol Devgn,Shah Rukh Khan,Jimmy Shergill,Adventure,Drama,Romance
+airlift,123,68,U/A,22-Jan-16,124,Raja Krishna Menon,Bhushan Kumar,Akshay Kumar,Nimrat Kaur,Prakash Belawadi,Action,Adventure,Drama
+padman,191,20,U/A,9-Feb-18,119,R. Balki,Twinkle Khanna,Sonam Kapoor,Akshay Kumar,Amitabh Bachchan,Biography,Comedy,Drama
+veer-zaara,97,23,U,12-Nov-04,197,Yash Chopra,Aditya Chopra,Rani Mukerji,Amitabh Bachchan,Shah Rukh Khan,Drama,Family,Musical
+raazi,122,38,U/A,10-May-18,140,Meghna Gulzar,Karan Johar,Alia Bhatt,Lovely Sidhu,Vicky Kaushal,Crime,Drama,Thriller
+ugly,6,6,A,26-Dec-14,127,Anurag Kashyap,Anurag Kashyap,Alia Bhatt,Rahul Bhat,Surveen Chawla,Crime,Drama,Mystery
+secret-superstar,62,45,U/A,18-Oct-17,150,Advait Chandan,Aamir Khan,Aamir Khan,Zaira Wasim,Nikita Anand,Action,Adventure,Comedy
+baby-i,81,75,U/A,23-Jan-15,160,Neeraj Pandey,Bhushan Kumar,Akshay Kumar,Anupam Kher,Sandeep Bharadwaj,Action,Adventure,Thriller
+laal-rang,1,10,U/A,22-Apr-16,150,Syed Ahmed Afzal,Nitika Thakur,Randeep Hooda,Piaa Bajpai,Rajniesh Duggall,Action,Crime,Drama
+mukkabaaz,10,12,U/A,12-Jan-18,155,Anurag Kashyap,Anurag Kashyap,Jimmy Shergill,Nawazuddin Siddiqui,Ravi Kishan Shukla,Action,Drama,Sport
+ankhon-dekhi,0.81,4,U,21-Mar-14,107,Rajat Kapoor,Manish Mundra,Chandrachoor Rai,Seema Pahwa,Rajat Kapoor,Comedy,Drama,NA
+special-chabbis,65,50,U/A,7-Feb-13,144,Neeraj Pandey,Kumar Mangat Pathak,Kajal Aggarwal,Akshay Kumar,Jimmy Shergill,Crime,Drama,History
+i-am-kalam,1,2,U,13-Mar-11,88,Nila Madhab Panda,Santanu Mishra,Harsh Mayar,Suresh Acharya,Samarth Shandilya,Comedy,Drama,Family
+devd,15,11,A,6-Feb-09,144,Anurag Kashyap,Ronnie Screwvala,Abhay Deol,Mahie Gill,Kalki Koechlin,Comedy,Drama,Romance
+super-30,147,120,U,12-Jul-19,155,Kabir Khan,Madhu Mantena,Vikas Bahl,Hrithik Roshan,Katrina Kaif,Biography,Drama,NA
+vicky-donor,41,10,U/A,19-Apr-12,122,Shoojit Sircar,Sunil Lulla,John Abraham,Ayushmann Khurrana,Siddharth Bharadwaj,Comedy,Romance,NA
+ms-dhoni-the-untold-story,216,104,U,29-Sep-16,185,Neeraj Pandey,Arun Pandey,Sushant Singh Rajput,Aamir Khan,Bhoomika Chawla,Biography,Drama,Sport
+udta-punjab,58,47,A,17-Jun-16,148,Abhishek Chaubey,,Shahid Kapoor,Alia Bhatt,Kareena Kapoor Khan,Action,Crime,Drama
+ab-tak-chhappan,8,4,A,27-Feb-04,129,Shimit Amin,Ram Gopal Varma,Nana Patekar,Mohan Agashe,Revathi,Crime,Drama,Thriller
+dor,2,3,U,22-Sep-06,124,Nagesh Kukunoor,Elahe Hiptoola,Gul Panag,Ayesha Takia,Girish Karnad,Drama,NA,NA
+rockstar,68,66,U,11-Nov-11,147,Imtiaz Ali,Sunil Lulla,Ranbir Kapoor,Shammi Kapoor,Nargis Fakhri,Drama,Musical,Romance
+jab-we-met,31,15,U,26-Oct-07,144,Imtiaz Ali,Dhilin Mehta,Shahid Kapoor,Kareena Kapoor Khan,Tarun Arora,Comedy,Drama,Romance
+sonchiriya-m,5,28,A,1-Mar-19,145,Abhishek Chaubey,Ronnie Screwvala,Bhumi Pednekar,Sushant Singh Rajput,Manoj Bajpayee,Drama,Action,Crime
+lakshya,23,30,U,18-Jun-04,186,Farhan Akhtar,Farhan Akhtar,Hrithik Roshan,Amitabh Bachchan,Preity Zinta,War,Drama,Romance
+neerja,71,28,U,19-Feb-16,122,Ram Madhvani,Atul Kasbekar,Sonam Kapoor,Amit Lekhwani,Shabana Azmi,Biography,Drama,Thriller
+jodhaa-akbar,56,55,U/A,13-Feb-08,212,Ashutosh Gowariker,Ashutosh Gowariker,Aishwarya Rai Bachchan,Hrithik Roshan,Amitabh Bachchan,Action,Adventure,Biography
+guru4,45,22,U,12-Jan-07,166,Mani Ratnam,Mani Ratnam,Aishwarya Rai Bachchan,Vidya Balan,R Madhavan,Biography,Drama,Musical
+piku,141,25,U/A,7-May-15,125,Shoojit Sircar,Np Singh,Deepika Padukone,Irrfan Khan,Amitabh Bachchan,Comedy,Drama,NA
+kapoor-sons,69,38,U/A,17-Mar-16,140,Shakun Batra,,Sidharth Malhotra,Fawad Afzal Khan,Alia Bhatt,Comedy,Drama,Romance
+kai-po-che,92,25,U,22-Feb-13,126,Abhishek Kapoor,Ronnie Screwvala,Sushant Singh Rajput,Rajkummar Rao,Tahir Raj Bhasin,Drama,Sport,NA
+badla2,87,37,U/A,8-Mar-19,120,Sujoy Ghosh,,Amitabh Bachchan,Shah Rukh Khan,Taapsee Pannu,Thriller,Crime,Drama
+mumbai-meri-jaan,3,3,U/A,22-Aug-08,134,Nishikant Kamat,Rucha Pathak,R Madhavan,Irrfan Khan,Vibhawari Deshpande,Drama,NA,NA
+english-vinglish,38,26,U,5-Oct-12,135,Gauri Shinde,Sunil Lulla,Priya Anand,Ajith Kumar,Amitabh Bachchan,Comedy,Drama,Family
+kuch-kuch-hota-hai,46,10,U,16-Oct-98,185,Karan Johar,Yash Johar,Rani Mukerji,Kajol Devgn,Salman Khan,Comedy,Drama,Musical
+the-lunchbox,20,22,U,27-Mar-14,104,Ritesh Batra,Anurag Kashyap,Irrfan Khan,Irrfan Khan,Nimrat Kaur,Drama,Romance,NA
+aligarh,2,11,A,26-Feb-16,120,Hansal Mehta,Sunil Lulla,Sukhesh Arora,Balaji Gauri,Manoj Bajpayee,Biography,Drama,NA
+hindi-medium,63,23,U,18-May-17,133,Saket Chaudhary,Bhushan Kumar,Irrfan Khan,Saba Qamar,Deepak Dobriyal,Comedy,Drama,NA
+stanley-ka-dabba,5,4,U,13-May-11,96,Amole Gupte,Amole Gupte,Partho A. Gupte,Numaan Sheikh,Abhishek Reddy,Comedy,Drama,Family
+kabhi-khushi-kabhie-gham1,55,40,U,14-Dec-01,210,Karan Johar,Yash Johar,Rani Mukerji,Hrithik Roshan,Amitabh Bachchan,Drama,Musical,Romance
+hum-aapke-hain-koun,72,6,U,5-Aug-94,206,Sooraj R. Barjatya,Ajit Kumar Barjatya,Sooraj R. Barjatya,Madhuri Dixit,Salman Khan,Comedy,Drama,Musical
+hum-dil-de-chuke-sanam,24,16,U,18-Jun-99,177,Sanjay Leela Bhansali,Sanjay Leela Bhansali,Aishwarya Rai Bachchan,Ajay Devgan,Salman Khan,Comedy,Drama,Musical
+stree,124,24,U/A,30-Aug-18,129,Amar Kaushik,Dinesh Vijan,Amar Kaushik,Kriti Sanon,Shraddha Kapoor,Comedy,Drama,Horror
+ghajini,114,52,U,24-Dec-08,154,A.r. Murugadoss,Madhu Mantena Varma,Ar Murugadoss,Aamir Khan,Asin Thottumkal,Action,Drama,Mystery
+manorama-six-feet-under,0.42,3,U/A,21-Sep-07,138,Navdeep Singh,Ketan Maru,Abhay Deol,Gul Panag,Nawazuddin Siddiqui,Crime,Drama,Mystery
+madras-cafe,43,35,U/A,23-Aug-13,130,Shoojit Sircar,John Abraham,John Abraham,Nargis Fakhri,Raashi Khanna,Action,Drama,History
+aamir,2,3,U,6-Jun-08,99,Raj Kumar Gupta,,Rajeev Khandelwal,Chinkal,Aishwarya,Drama,Thriller,Crime
+parmanu-the-story-of-pokhran,91,44,U,4-May-18,129,Abhishek Sharma,John Abraham,John Abraham,Diana Penty,Boman Irani,Action,Drama,History
+pyaar-ka-punchnama,60,22,U/A,20-May-11,149,Luv Ranjan,,Kartik Aaryan,Nushrat Bharucha,Raayo S. Bakhirta,Comedy,Drama,Romance
+bajirao-mastani,183,145,U,18-Dec-15,158,Sanjay Leela Bhansali,Sanjay Leela Bhansali,Ranveer Singh,Deepika Padukone,Priyanka Chopra,Action,Drama,History
+dum-laga-ke-haisha,30,14,U/A,27-Feb-15,131,Sharat Katariya,Aditya Chopra,Bhumi Pednekar,Ayushmann Khurrana,Chandrachoor Rai,Comedy,Drama,Romance
+chillar-party,4,5,U,8-Jul-11,135,Vikas Bahl,Ronnie Screwvala,Nitesh Tiwari,Ranbir Kapoor,Aarav Khanna,Comedy,Drama,Family
+raanjhanaa,61,36,U/A,20-Jun-13,141,Aanand L. Rai,Krishika Lulla,Aanand L Rai,Sonam Kapoor,Dhanush,Drama,Romance,NA
+dear-zindagi,66,46,U/A,23-Nov-16,149,Gauri Shinde,Karan Johar,Alia Bhatt,Shah Rukh Khan,Aditya Roy Kapoor,Drama,Romance,NA
+kesari,151,126,U/A,21-Mar-19,151,Anurag Singh,Akshay Kumar,Akshay Kumar,Vansh Bhardwaj,Parineeti Chopra,Action,Drama,History
+wake-up-sid,27,18,U/A,2-Oct-09,138,Ayan Mukherjee,Karan Johar,Ranbir Kapoor,Anupam Kher,Konkona Sen Sharma,Comedy,Drama,Romance
+highway-i,28,25,U/A,20-Feb-14,133,Imtiaz Ali,Imtiaz Ali,Alia Bhatt,Pradeep Nagar,Randeep Hooda,Adventure,Drama,Romance
+do-dooni-chaar,4,6,U,8-Oct-10,112,Habib Faisal,Arindam Chowdhuri,Rishi Kapoor,Mohit Chadha,Aditi Vasudev,Comedy,Drama,NA
+detective-byomkesh-bakshy,26,35,U/A,2-Apr-15,151,Dibakar Banerjee,Aditya Chopra,Sushant Singh Rajput,Divya Menon,Neeraj Kabi,Action,Drama,Thriller
+parched,1,24,A,20-Apr-16,116,Leena Yadav,Ajay Devgan,Tannishtha Chatterjee,Lehar Khan,Radhika Apte,Drama,NA,NA
+the-sky-is-pink,20,42,U/A,11-Oct-19,135,Shonali Bose,Priyanka Chopra,Priyanka Chopra,Farhan Akhtar,Zaira Wasim,Drama,Biography,Family
+bandit-queen,14,3,A,28-Jan-95,119,Shekhar Kapur,Bobby Bedi,Manoj Bajpayee,Seema Biswas,Mahesh Chandra,Biography,Crime,Drama
+trapped-ii,2,5,U/A,16-Mar-17,105,Vikramaditya Motwane,Anurag Kashyap,Geetanjali Thapa,Rajkummar Rao,Khushboo Upadhyay,Drama,Thriller,Action
+raincoat,2,5,U,24-Dec-04,117,Rituparno Ghosh,,Aishwarya Rai Bachchan,Ajay Devgan,Kailash Koppikar,Drama,Romance,NA
+bhavesh-joshi-superhero,1,21,U/A,1-Jun-18,155,Vikramaditya Motwane,Anurag Kashyap,Harshvardhan Kapoor,Radhika Apte,Hrishikesh Joshi,Action,Drama,NA
+shaadi-mein-zaroor-aana,15,13,U/A,9-Nov-17,137,Ratnaa Sinha,Vinod Bachchan,Kriti Kharbanda,Rajkummar Rao,Alka Amin,Drama,Family,Romance
+koi-mil-gaya,82,30,U,8-Aug-03,172,Rakesh Roshan,Rakesh Roshan,Hrithik Roshan,Preity Zinta,Rekha Ganesan,Drama,Fantasy,Romance
+kaminey,41,40,U/A,14-Aug-09,131,Vishal Bhardwaj,Ronnie Screwvala,Shahid Kapoor,Priyanka Chopra,Hrishikesh Joshi,Action,Comedy,Crime
+once-upon-a-time-in-mumbaai,58,35,U/A,30-Jul-10,132,Milan Luthria,Ekta Kapoor,Emraan Hashmi,Kangana Ranaut,Ajay Devgan,Action,Crime,Drama
+padmavati,585,215,U/A,25-Jan-18,163,Sanjay Leela Bhansali,Shobha Sant,Ranveer Singh,Shahid Kapoor,Deepika Padukone,Drama,History,Romance
+kabir-singh,276,68,A,21-Jun-19,174,Sandeep Reddy Vanga,Bhushan Kumar,Shahid Kapoor,Kiara Advani,Adil Hussain,Drama,Action,Romance
+jolly-llb,30,13,U/A,14-Mar-13,131,Subhash Kapoor,,Kannan Arunachalam,Mohan Agashe,Amrita Rao,Comedy,Drama,Crime
+phas-gaye-re-obama,2,6,A,3-Dec-10,108,Subhash Kapoor,Ashok Pandey,Ranjan Chhabra,Pragati Pandey,Pragati Pandey,Comedy,Crime,Drama
+hichki,46,20,U,22-Mar-18,116,Siddharth Malhotra,Aditya Chopra,Siddharth P Malhotra,Rani Mukerji,Ria Shukla,Comedy,Drama,NA
+rocket-singh-salesman-of-the-year,20,16,U/A,11-Dec-09,150,Shimit Amin,,Ranbir Kapoor,Imtiaz Ahamed,Naveen Kaushik,Comedy,Drama,NA
+october,37,33,U,12-Apr-18,115,Shoojit Sircar,Shoojit Sircar,Varun Dhawan,Nikita Anand,Ashish Ghosh,Drama,Romance,Thriller
+life-in-a-metro,15,9,A,11-May-07,132,Anurag Basu,Anurag Basu,Kangana Ranaut,Irrfan Khan,Dharmendra,Comedy,Drama,Romance
+yuva,14,12,U/A,22-May-04,161,Mani Ratnam,Mani Ratnam,Rani Mukerji,Ajay Devgan,Kareena Kapoor Khan,Action,Adventure,Crime
+toilet-ek-prem-katha,311,32,U/A,10-Aug-17,161,Shree Narayan Singh,Arjun Kapoor,Shree Narayan Singh,Bhumi Pednekar,Akshay Kumar,Comedy,Drama,NA
+khakee1,25,26,U,23-Jan-04,144,Rajkumar Santoshi,Bharat S Shah,Akshay Kumar,Aishwarya Rai Bachchan,Ajay Devgan,Action,Adventure,Drama
+bala1,110,32,U/A,7-Nov-19,133,Amar Kaushik,Dinesh Vijan,Amar Kaushik,Bhumi Pednekar,Yami Gautam,Comedy,Romance,Drama
+bhool-bhulaiyaa,49,32,U/A,12-Oct-07,164,Priyadarshan Nair,Bhushan Kumar,Akshay Kumar,Vidya Balan,Shiney Ahuja,Comedy,Horror,Mystery
+parineeta,16,17,U,10-Jun-05,130,Pradeep Sarkar,Vidhu Vinod Chopra,Vidya Balan,Saif Ali Khan,Amitabh Bachchan,Drama,Musical,Romance
+gold,102,107,U/A,15-Aug-18,153,Reema Kagti,Farhan Akhtar,Akshay Kumar,Farhan Akhtar,Mouni Roy,Drama,History,Sport
+badlapur,49,29,U/A,19-Feb-15,128,Sriram Raghavan,Sunil Lulla,Varun Dhawan,Yami Gautam,Radhika Apte,Action,Drama,Crime
+ishqiya,22,19,A,29-Jan-10,118,Abhishek Chaubey,Vishal Bhardwaj,Vidya Balan,Naseeruddin Shah,Salman Shahid,Comedy,Drama,Romance
+holiday-a-soldier-is-never-off-duty,178,50,U/A,5-Jun-14,171,A.r. Murugadoss,Aruna Bhatia,Ar Murugadoss,Akshay Kumar,Sonakshi Sinha,Action,Adventure,Crime
+page-3,8,4,A,21-Jan-05,139,Madhur Bhandarkar,Bobby Pushkarna,Sunil Shetty,Shashank,Konkona Sen Sharma,Drama,NA,NA
+rab-ne-bana-di-jodi,84,39,U,12-Dec-08,164,Aditya Chopra,Aditya Chopra,Anushka Sharma,Rani Mukerji,Kajol Devgn,Comedy,Drama,Romance
+fanaa,51,30,U,26-May-06,168,Kunal Kohli,Aditya Chopra,Aamir Khan,Kajol Devgn,Tabu Hashmi,Drama,Romance,Thriller
+tamasha,68,87,U/A,26-Nov-15,151,Imtiaz Ali,Imtiaz Ali,Deepika Padukone,Ranbir Kapoor,Sukhesh Arora,Comedy,Drama,Romance
+peepli,46,10,A,13-Aug-10,95,Mahmood Farooqui,Aamir Khan,Mahmood Farooqui,Anusha Rizvi,Naseeruddin Shah,Comedy,Drama,NA
+102-not-out,51,35,U,3-May-18,102,Umesh Shukla,Bhushan Kumar,Amitabh Bachchan,Rishi Kapoor,Rakhi Kumari,Comedy,Drama,NA
+dhamaal,32,19,U,7-Sep-07,136,Indra Kumar,Indra Kumar,Sanjay Dutt,Riteish Deshmukh,Arshad Warsi,Adventure,Comedy,Crime
+band-baaja-baaraat,23,15,U,10-Dec-10,139,Maneesh Sharma,Aditya Chopra,Anushka Sharma,Ranveer Singh,Manish Chaudhari,Comedy,Drama,Romance
+guzaarish,29,74,U/A,16-Nov-10,127,Sanjay Leela Bhansali,Sanjay Leela Bhansali,Aishwarya Rai Bachchan,Hrithik Roshan,Aditya Roy Kapoor,Comedy,Drama,Romance
+the-stoneman-murders,0.59,4,U/A,13-Feb-09,95,Manish Gupta,Bobby Bedi,Priya Ahuja,Kay Kay Menon,Rukhsar Rehman,Crime,Drama,Mystery
+soorma,32,31,U,12-Jul-18,131,Shaad Ali,Chitrangda Singh,Diljit Dosanjh,Taapsee Pannu,Sidharth Shukla,Biography,Sport,Drama
+raman-raghav-20,6,10,A,24-Jun-16,140,Anurag Kashyap,Anurag Kashyap,Sobhita Dhulipala,Anuschka Sawhney,Nawazuddin Siddiqui,Crime,Drama,Thriller
+mardaani-2,46,27,U/A,13-Dec-19,135,Gopi Puthran,Aditya Chopra,Rani Mukerji,Richa Meena,Vikram Singh Chauhan,Action,Drama,Thriller
+sanam-teri-kasam,8,19,U,5-Feb-16,155,Radhika Rao,Sunil A Lulla,Vinay Sapru,Mawra Hocane,Harshvardhan Rane,Drama,Musical,Romance
+mard-ko-dard-nahi-hota1,2,17,U/A,21-Mar-19,137,Vasan Bala,Ronnie Screwvala,Abhimanyu Dassani,Radhika Madan,Gulshan Devaiah,Action,Comedy,Drama
+sultan,300,145,U/A,6-Jul-16,170,Ali Abbas Zafar,Aditya Chopra,Anushka Sharma,Salman Khan,Randeep Hooda,Action,Drama,Family
+lakshmi2,0.29,4,A,21-Mar-14,115,Nagesh Kukunoor,Satish Kaushik,Flora Saini,Ram Kapoor,Shefali Shetty,Drama,Musical,NA
+sonu-ke-titu-ki-sweety,100,40,U/A,23-Feb-18,140,Luv Ranjan,Bhushan Kumar,Kartik Aaryan,Nushrat Bharucha,Sunny Singh Nijjar,Comedy,Romance,Drama
+aashiqui-2,78,15,U,25-Apr-13,133,Mohit Suri,Bhushan Kumar,Shraddha Kapoor,Salil Acharya,Aditya Roy Kapoor,Drama,Musical,Romance
+don-2,106,76,U,23-Dec-11,139,Farhan Akhtar,Shah Rukh Khan,Hrithik Roshan,Priyanka Chopra,Shah Rukh Khan,Action,Crime,Thriller
+batla-house,84,56,U/A,15-Aug-19,135,Nikkhil Advani,Bhushan Kumar,John Abraham,Mrunal Thakur,Manish Chaudhari,Action,Thriller,Drama
+raajneeti,92,61,U/A,4-Jun-10,168,Prakash Jha,Prakash Jha,Arjun Rampal,Ajay Devgan,Katrina Kaif,Crime,Drama,Thriller
+tanu-weds-manu-returns,148,39,U/A,21-May-15,128,Aanand L. Rai,Kishore Lulla,Aanand L Rai,Kangana Ranaut,R Madhavan,Comedy,Drama,Romance
+sarbjit-film,43,15,U/A,20-May-16,131,Omung Kumar,Bhushan Kumar,Ishwar Singh Muchhal,Aishwarya Rai Bachchan,Randeep Hooda,Biography,Drama,History
+om-shanti-om,78,40,U/A,7-Nov-07,162,Farah Khan,Shah Rukh Khan,Akshay Kumar,Arjun Rampal,Rani Mukerji,Action,Comedy,Drama
+gabbar-is-back,86,79,U/A,30-Apr-15,130,Krish Jagarlamudi,Sanjay Leela Bhansali,Radhakrishna Jagarlamudi,Akshay Kumar,Kareena Kapoor Khan,Action,Crime,Drama
+agneepath1,119,71,U/A,26-Jan-12,174,Karan Malhotra,Karan Johar,Hrithik Roshan,Priyanka Chopra,Katrina Kaif,Action,Crime,Drama
+city-lights,6,9,U/A,30-May-14,127,Hansal Mehta,Mukesh Bhatt,Mallhar Goenka,Patralekha Paul,Rajkummar Rao,Drama,Thriller,NA
+good-newwz-m,196,117,U/A,27-Dec-19,134,Raj Mehta,Aruna Bhatia,Akshay Kumar,Kareena Kapoor Khan,Tanmay Dhanania,Comedy,Drama,Romance
+laal-kaptaan,2,41,A,18-Oct-19,155,Navdeep Singh,Sunil Lulla,Deepak Dobriyal,Saif Ali Khan,Sonakshi Sinha,Drama,Action,NA
+filmistaan1,6,7,U,6-Jun-14,117,Nitin Kakkar,Shaila Tanna,Nitin Kakkar,Gopal Datt,Kumud Mishra,Comedy,Drama,NA
+mardaani,35,21,A,21-Aug-14,113,Pradeep Sarkar,Aditya Chopra,Rani Mukerji,Priyanka Sharma,Tahir Raj Bhasin,Action,Drama,Thriller
+lootera-i,27,32,U/A,4-Jul-13,143,Vikramaditya Motwane,Anurag Kashyap,Ranveer Singh,Sonakshi Sinha,Adil Hussain,Drama,Romance,Family
+ek-chalis-ki-last-local,1,3,A,18-May-07,143,Sanjay M. Khanduri,Bharat S Shah,Sanjay M Khanduri,Himanshu Bhatt,Abhay Deol,Adventure,Comedy,Crime
+te3n,18,34,U/A,10-Jun-16,136,Ribhu Dasgupta,Suresh Nair,Vidya Balan,Amitabh Bachchan,Ardhendu Banerjee,Drama,Mystery,Thriller
+shaurya-it-takes-courage-to-make-right-right,2,4,A,4-Apr-08,145,Samar Khan,Rupali Mehta,Shah Rukh Khan,Seema Biswas,Deepak Dobriyal,Crime,Drama,Thriller
+mom,31,37,U/A,6-Jul-17,147,Ravi Udyawar,Boney Kapoor,Akshaye Khanna,Sridevi Kapoor,Nawazuddin Siddiqui,Drama,Thriller,Crime
+2-states,101,45,U/A,17-Apr-14,149,Abhishek Varman,Sajid Nadiadwala,Alia Bhatt,Arjun Kapoor,Revathi,Comedy,Drama,Romance
+namastey-london,37,31,U,23-Mar-07,136,Vipul Amrutlal Shah,Bharat S Shah,Akshay Kumar,Katrina Kaif,Rishi Kapoor,Comedy,Drama,Romance
+hum-tum,21,8,U,28-May-04,142,Kunal Kohli,Kunal Kohli,Rani Mukerji,Saif Ali Khan,Rishi Kapoor,Comedy,Drama,Romance
+dream-girl4,139,36,U/A,13-Sep-19,133,Raaj Shaandilyaa,Aashish Singh,Ayushmann Khurrana,Riteish Deshmukh,Nushrat Bharucha,Comedy,Romance,Drama
+d-day-i,40,28,U/A,19-Jul-13,154,Nikhil Advani,Madhu Bhojwani,Arjun Rampal,Irrfan Khan,Rishi Kapoor,Action,Adventure,Crime
+bareilly-ki-barfi,34,20,U/A,18-Aug-17,122,Ashwini Iyer Tiwari,Vineet Jain,Kriti Sanon,Ayushmann Khurrana,Rajkummar Rao,Comedy,Romance,Drama
+poorna,3,3,U,31-Mar-17,100,Rahul Bose,Rahul Bose,Heeba Shah,Aditi Inamdar,Rahul Bose,Biography,Drama,Adventure
+shootout-at-lokhandwala,29,18,A,25-May-07,145,Apoorva Lakhia,Shobha Kapoor,Amitabh Bachchan,Sanjay Dutt,Abhishek Bachchan,Action,Crime,Drama
+fan-i,90,120,U/A,15-Apr-16,142,Maneesh Sharma,Aditya Chopra,Shah Rukh Khan,Jack Gover,Puja Panchkoty,Action,Adventure,Drama
+welcome-i,70,48,U/A,20-Dec-07,161,Anees Bazmee,Firoz Nadiadwala,Anees Bazmee,Akshay Kumar,Katrina Kaif,Comedy,Crime,Drama
+the-dirty-picture,79,31,A,2-Dec-11,144,Milan Luthria,Shobha Kapoor,Emraan Hashmi,Vidya Balan,Naseeruddin Shah,Biography,Comedy,Drama
+jannat-in-search-of-heaven,68,12,U/A,16-May-08,140,Kunal Deshmukh,,Emraan Hashmi,Sonal Chauhan,Sameer Kochhar,Crime,Drama,Romance
+shanghai,23,23,U/A,7-Jun-12,120,Dibakar Banerjee,Dibakar Banerjee,Emraan Hashmi,Prosenjit Chatterjee,Abhay Deol,Crime,Thriller,Mystery
+yeh-jawaani-hai-deewani,177,75,U/A,31-May-13,161,Ayan Mukherjee,Karan Johar,Deepika Padukone,Ranbir Kapoor,Madhuri Dixit,Comedy,Drama,Musical
+shor-in-the-city,4,7,U/A,29-Apr-11,112,Raj Nidimoru,Ekta Kapoor,Krishna D.k.,Krishna Dk,Radhika Apte,Crime,Drama,Romance
+war1,475,150,U/A,2-Oct-19,156,Siddharth Anand,Aditya Chopra,Tiger Shroff,Vaani Kapoor,Hrithik Roshan,Action,Thriller,Musical
+pataakha,7,19,U/A,27-Sep-18,136,Vishal Bhardwaj,Ajay Kapoor,Sanya Malhotra,Mrunal Thakur,Namit Das,Action,Comedy,Drama
+omerta,3,12,A,4-May-18,96,Hansal Mehta,Nahid Khan,Rajkummar Rao,Rupinder Nagra,Sanjiv Chopra,Action,Drama,Crime
+talaash,0.06,1,U/A,30-Nov-12,141,Reema Kagti,Aamir Khan,Aamir Khan,Rani Mukerji,Kareena Kapoor Khan,Crime,Drama,Mystery
+no-smoking,2,7,A,26-Oct-07,127,Anurag Kashyap,Vishal Bhardwaj,John Abraham,Bipasha Basu,Ayesha Takia,Drama,Fantasy,Mystery
+nh10,32,8,A,12-Mar-15,115,Navdeep Singh,,Anushka Sharma,Ravi Beniwal,Siddharth Bharadwaj,Crime,Drama,Horror
+ittefaq2,27,29,U/A,2-Nov-17,105,Abhay Chopra,Shah Rukh Khan,Sidharth Malhotra,Sonakshi Sinha,Akshaye Khanna,Mystery,Thriller,Crime
+taal,21,15,U,13-Aug-99,185,Subhash Ghai,Subhash Ghai,Aishwarya Rai Bachchan,Shahid Kapoor,Akshaye Khanna,Musical,Romance,Drama
+fashion,26,20,A,29-Oct-08,167,Madhur Bhandarkar,Ronnie Screwvala,Kangana Ranaut,Priyanka Chopra,Mugdha Godse,Drama,Romance,Film-noir
+mujhse-shaadi-karogi,29,19,U/A,30-Jul-04,156,David Dhawan,Sajid Nadiadwala,Akshay Kumar,Priyanka Chopra,Salman Khan,Comedy,Romance,Drama
+phir-hera-pheri,40,18,U,9-Jun-06,162,Neeraj Vora,Firoz Nadiadwala,Akshay Kumar,Nana Patekar,Tabu Hashmi,Comedy,Crime,NA
+dil-dhadakne-do,75,83,U/A,4-Jun-15,170,Zoya Akhtar,Farhan Akhtar,Anushka Sharma,Ranveer Singh,Aamir Khan,Drama,Family,Romance
+kya-dilli-kya-lahore,0.66,5,U/A,2-May-14,98,Vijay Raaz,Karan Arora,Karan Arora,Manu Rishi Chadha,Raj Zutshi,Drama,History,War
+singham,98,41,U/A,22-Jul-11,144,Rohit Shetty,,Kajal Aggarwal,Ajay Devgan,Prakash Raj,Action,Crime,Drama
+dhoom,31,11,U/A,27-Aug-04,129,Sanjay Gadhvi,Aditya Chopra,Abhishek Bachchan,Uday Chopra,John Abraham,Action,Crime,Thriller
+raees,128,127,U/A,25-Jan-17,143,Rahul Dholakia,Gauri Khan,Shah Rukh Khan,Shubham Chintamani,Shubham Tukaram,Action,Crime,Drama
+sui-dhaaga-made-in-india,125,48,U,28-Sep-18,122,Sharat Katariya,Aditya Chopra,Anushka Sharma,Varun Dhawan,Siddharth Bharadwaj,Comedy,Drama,Family
+saathiya,15,7,U,20-Dec-02,143,Shaad Ali,Bharat S Shah,Rani Mukerji,Tabu Hashmi,Shah Rukh Khan,Drama,Family,Romance
+main-hoon-na,0.21,5,U/A,30-Apr-04,182,Farah Khan,Shah Rukh Khan,Tabu Hashmi,Shah Rukh Khan,Naseeruddin Shah,Action,Comedy,Crime
+margarita-with-a-straw,5,6,A,17-Apr-15,100,Shonali Bose,Shonali Bose,Nilesh Maniyar,Kalki Koechlin,Tenzing Dalha,Drama,NA,NA
+krrish,72,40,U,23-Jun-06,176,Rakesh Roshan,Rakesh Roshan,Hrithik Roshan,Priyanka Chopra,Preity Zinta,Action,Adventure,Romance
+waqt-the-race-against-time,42,16,U,22-Apr-05,154,Vipul Amrutlal Shah,Manmohan Shetty,Akshay Kumar,Priyanka Chopra,Amitabh Bachchan,Comedy,Drama,Musical
+hawaa-hawaai,8,11,U,9-May-14,120,Amole Gupte,Amole Gupte,Partho A. Gupte,Devraya Gole,Neha Joshi,Drama,Family,Sport
+karthik-calling-karthik,18,20,U/A,26-Feb-10,135,Vijay Lalwani,Farhan Akhtar,Deepika Padukone,Farhan Akhtar,Siddhartha Gupta,Drama,Romance,Thriller
+qarib-qarib-singlle,16,17,U/A,9-Nov-17,125,Tanuja Chandra,Sutapa Sikdar,Parvathi Menon,Irrfan Khan,Siddharth Menon,Comedy,Romance,Drama
+dhobi-ghat,13,13,A,21-Jan-11,100,Kiran Rao,Aamir Khan,Kiran Rao,Aamir Khan,Rehan Khan,Drama,NA,NA
+wazir-i,40,36,U/A,8-Jan-16,103,Bejoy Nambiar,Vidhu Vinod Chopra,John Abraham,Amitabh Bachchan,Farhan Akhtar,Action,Crime,Drama
+blackmail1,19,20,U/A,5-Apr-18,139,Abhinay Deo,Bhushan Kumar,Irrfan Khan,Kirti Kulhari,Omi Vaidya,Action,Comedy,Thriller
+dedh-ishqiya,25,37,U/A,9-Jan-14,152,Abhishek Chaubey,Vishal Bhardwaj,Madhuri Dixit,Naseeruddin Shah,Salman Shahid,Comedy,Drama,Romance
+love-sex-aur-dhokha,8,4,A,19-Mar-10,113,Dibakar Banerjee,Ekta Kapoor,Nushrat Bharucha,Neha Chauhan,Rajkummar Rao,Comedy,Crime,Drama
+table-no21,11,8,A,4-Jan-13,108,Aditya Datt,Sunil Lulla,Rajeev Khandelwal,Dhruv Ganesh,Hanif Hilal,Adventure,Thriller,Drama
+jab-tak-hai-jaan,101,78,U/A,13-Nov-12,179,Yash Chopra,Aditya Chopra,Anushka Sharma,Katrina Kaif,Shah Rukh Khan,Drama,Family,Romance
+dhoom2,151,35,U/A,24-Nov-06,152,Sanjay Gadhvi,Aditya Chopra,Aishwarya Rai Bachchan,Hrithik Roshan,Bipasha Basu,Action,Crime,Thriller
+race-i,60,46,A,20-Mar-08,154,Abbas Mustan,Ramesh Taurani,Saif Ali Khan,Akshaye Khanna,Katrina Kaif,Action,Drama,Crime
+mary-kom,61,38,U,5-Sep-14,124,Omung Kumar,Sanjay Leela Bhansali,Priyanka Chopra,Robin Das,Shiva Dagar,Biography,Drama,Sport
+sarkar-raj,34,27,U/A,5-Jun-08,125,Ram Gopal Varma,Ram Gopal Varma,Aishwarya Rai Bachchan,Amitabh Bachchan,Abhishek Bachchan,Action,Crime,Drama
+dabangg,141,41,U/A,10-Sep-10,125,Abhinav Singh Kashyap,Arbaaz Khan,Sonakshi Sinha,Salman Khan,Vinod Khanna,Action,Comedy,NA
+khichdi-the-movie,5,4,U,1-Oct-10,120,Aatish Kapadia,Jamnadas Majethia,Nimisha Vakharia,Kirti Kulhari,J.d. Majethia,Comedy,Family,Romance
+shubh-mangal-saavdhan,41,25,U/A,1-Sep-17,119,Rs Prasanna,Aanand L Rai,R.s. Prasanna,Bhumi Pednekar,Ayushmann Khurrana,Comedy,Romance,Drama
+fukrey,34,19,U/A,13-Jun-13,137,Mrigdeep Singh Lamba,Farhan Akhtar,Priya Anand,Altaf,Richa Chadda,Comedy,Drama,Romance
+baaghi2,76,37,A,1-Jan-01,162,Rajesh Kumar Singh,Ramesh J Sharma,Sanjay Dutt,Manisha Koirala,Sudhakar Manjrekar,Action,Crime,Romance
+tanu-weds-manu,38,21,U/A,25-Feb-11,113,Aanand L. Rai,Shailesh R Singh,Aanand L Rai,Kangana Ranaut,R Madhavan,Comedy,Drama,Romance
+jagga-jasoos,52,131,U/A,7-Apr-17,161,Anurag Basu,Ranbir Kapoor,Katrina Kaif,Ranbir Kapoor,Govinda,Action,Adventure,Comedy
+well-done-abba1,3,6,U/A,26-Mar-10,144,Shyam Benegal,,Sonali Kulkarni,Sammir Dattani,Ila Arun,Comedy,Drama,NA
+kahaani-2,32,33,U/A,1-Dec-16,129,Sujoy Ghosh,Sujoy Ghosh,Arjun Rampal,Vidya Balan,Biswajit Chakraborty,Mystery,Thriller,Drama
+well-done-abba,25,10,U/A,26-Mar-10,144,Shyam Benegal,,Sonali Kulkarni,Sammir Dattani,Ila Arun,Comedy,Drama,NA
+garam-masala,29,17,U,3-Nov-05,136,Priyadarshan Nair,Bharat S Shah,Akshay Kumar,John Abraham,Daisy Bopanna,Comedy,Drama,Romance
+chandni-chowk-to-china,29,62,U/A,28-Jan-07,164,Vasu Oleti,Nallamalupu Bujji,Vasu Oleti,Anushka Shetty,Tottempudi Gopichand,Short,Drama,Action
+hunterrr,12,9,A,20-Mar-15,141,Harshavardhan Kulkarni,Anurag Kashyap,Radhika Apte,Sagar Deshmukh,Gulshan Devaiah,Comedy,Romance,Drama
+luck-by-chance,12,18,U,5-Feb-09,156,Zoya Akhtar,Farhan Akhtar,Aamir Khan,Rani Mukerji,Hrithik Roshan,Drama,NA,NA
+tumhari-sulu,32,20,U,17-Nov-17,140,Suresh Triveni,Bhushan Kumar,Vidya Balan,Ayushmann Khurrana,Priyanka Mehta,Comedy,Drama,NA
+dil-dosti-etc,2,3,A,28-Sep-07,112,Manish Tiwary,Manmohan Shetty,Smriti Mishra,Imaaduddin Shah,Shreyas Talpade,Comedy,Crime,Drama
+hulchul3,5,4,U,26-Nov-04,160,Priyadarshan Nair,Bharat S Shah,Akshaye Khanna,Kareena Kapoor Khan,Jackie Shroff,Action,Comedy,Drama
+wanted1,60,52,A,18-Sep-09,155,Prabhu Dheva,Boney Kapoor,Arjun Kapoor,Salman Khan,Govinda,Action,Crime,Thriller
+raaz1,122,38,A,12-Mar-02,152,Vikram Bhatt,,Bipasha Basu,Malini Sharma,Dino Morea,Drama,Horror,Musical
+gandhi-my-father,3,8,U,27-Jul-07,134,Feroz Abbas Khan,,Bhoomika Chawla,Akshaye Khanna,Ilanit Shapiro,Biography,Drama,History
+traffic-i,3,9,U/A,6-May-16,104,Rajesh Pillai,Deepak Dhariwal,Parambrata Chatterjee,Prosenjit Chatterjee,Jimmy Shergill,Adventure,Drama,Thriller
+de-de-pyaar-de,94,78,U/A,16-May-19,135,Akiv Ali,Bhushan Kumar,Ajay Devgan,Tabu Hashmi,Jimmy Shergill,Comedy,Romance,NA
+chittagong,0.35,5,U,12-Oct-12,105,Bedabrata Pain,Anurag Kashyap,Barry John,Manoj Bajpayee,Rajkummar Rao,Action,Drama,War
+mission-mangal,192,95,U,15-Aug-19,135,Jagan Shakti,Akshay Kumar,Sharman Joshi,Akshay Kumar,Nithya Menen,Drama,Sci-fi,History
+bunty-aur-babli,36,12,U/A,27-May-05,170,Shaad Ali,Aditya Chopra,Aishwarya Rai Bachchan,Rani Mukerji,Amitabh Bachchan,Comedy,Drama,Romance
+bluffmaster,31,8,U/A,16-Dec-05,141,Rohan Sippy,Manmohan Shetty,Priyanka Chopra,Nana Patekar,Abhishek Bachchan,Comedy,Romance,Thriller
+kedarnath1,70,68,U/A,7-Dec-18,120,Abhishek Kapoor,Ronnie Screwvala,Sushant Singh Rajput,Nishant Dahiya,Nitish Bharadwaj,Adventure,Drama,Fantasy
+ek-villain,97,39,U/A,27-Jun-14,129,Mohit Suri,Shobha Kapoor,Sidharth Malhotra,Shraddha Kapoor,Riteish Deshmukh,Action,Crime,Drama
+waiting,2,6,A,27-May-16,92,Anu Menon,Manish Mundra,Naseeruddin Shah,Kalki Koechlin,Jennifer Antony,Drama,Comedy,NA
+welcome-to-sajjanpur,9,9,U/A,19-Sep-08,133,Shyam Benegal,Ronnie Screwvala,Kunal Kapoor,Amrita Rao,Lalit Mohan Tiwari,Comedy,Drama,NA
+ujda-chaman,10,18,U/A,1-Nov-19,135,Abhishek Pathak,Kumar Mangat,Sunny Singh Nijjar,Sharib Hashmi,Manoj Bakshi,Comedy,NA,NA
+mulk,21,19,U/A,3-Aug-18,140,Anubhav Sinha,Anubhav Sinha,Rishi Kapoor,Indraneil Sengupta,Taapsee Pannu,Drama,Romance,NA
+mujhse-fraaandship-karoge,4,9,U/A,14-Oct-11,106,Nupur Asthana,Ashish Patil,Saba Azad,Saqib Saleem,Tara D'souza,Comedy,Romance,Drama
+manmarziyaan,40,30,U/A,14-Sep-18,157,Anurag Kashyap,Aanand L Rai,Abhishek Bachchan,Taapsee Pannu,Vicky Kaushal,Drama,Romance,NA
+chennai-express,207,115,U/A,8-Aug-13,142,Rohit Shetty,Gauri Khan,Deepika Padukone,Shah Rukh Khan,Priyamani,Action,Adventure,Comedy
+dostana,44,40,U/A,13-Nov-08,143,Tarun Mansukhani,Karan Johar,Priyanka Chopra,John Abraham,Abhishek Bachchan,Comedy,Drama,Romance
+kaante,20,30,A,20-Dec-02,154,Sanjay Gupta,Bharat S Shah,Amitabh Bachchan,Sanjay Dutt,Sunil Shetty,Action,Crime,Drama
+kabhi-alvida-naa-kehna,112,50,U/A,11-Aug-06,192,Karan Johar,Hiroo Johar,Arjun Rampal,Rani Mukerji,John Abraham,Drama,Romance,Family
+fukrey-returns,77,29,U/A,7-Dec-17,141,Mrigdeep Singh Lamba,Farhan Akhtar,Mrighdeep Lamba,Priya Anand,Richa Chadda,Comedy,Drama,Romance
+happy-bhag-jayegi,76,20,U,19-Aug-16,126,Mudassar Aziz,Krishika Lulla,Jimmy Shergill,Abhay Deol,Diana Penty,Comedy,Romance,NA
+rann,8,21,U/A,29-Jan-10,132,Ram Gopal Varma,Madhu Mantena Varma,Amitabh Bachchan,Riteish Deshmukh,Gul Panag,Drama,Mystery,Thriller
+manikarnika-the-queen-of-jhansi,132,99,U/A,24-Jan-19,148,Kangana Ranaut,Kamal Jain,Radhakrishna Jagarlamudi,Kangana Ranaut,Manish Wadhwa,Drama,History,Biography
+ajab-prem-ki-ghazab-kahani,62,44,U,6-Nov-09,151,Rajkumar Santoshi,Ramesh Sadhuram Taurani,Katrina Kaif,Ranbir Kapoor,Salman Khan,Comedy,Family,Musical
+ishaqzaade,46,19,U/A,11-May-12,133,Habib Faisal,Aditya Chopra,Arjun Kapoor,Parineeti Chopra,Charu Rastogi,Action,Drama,Romance
+rustom,124,73,U/A,11-Aug-16,150,Dharmendra Suresh Desai,Aruna Bhatia,Tinu Suresh Desai,Ileana D'cruz,Akshay Kumar,Action,Crime,Drama
+new-york,45,28,U/A,26-Jun-09,153,Kabir Khan,Aditya Chopra,Katrina Kaif,John Abraham,Irrfan Khan,Crime,Drama,Romance
+badrinath-ki-dulhania,114,44,U/A,9-Mar-17,139,Shashank Khaitan,Karan Johar,Varun Dhawan,Alia Bhatt,Shweta Prasad,Comedy,Drama,Romance
+katiyabaaz,0.14,1,A,1-Apr-13,84,Deepti Kakkar,Deepti Kakkar,Fahad Mustafa,Ritu Maheshwari,Loha Singh,Documentary,Drama,NA
+kabul-express,11,12,U/A,15-Dec-06,105,Kabir Khan,Aditya Chopra,John Abraham,Hanif Hum Ghum,Salman Shahid,Adventure,Drama,Thriller
+chalo-dilli,9,9,U,29-Apr-11,155,Shashant A Shah,Krishika Lulla,Shashant Shah,Akshay Kumar,Lara Dutta,Comedy,Drama,NA
+panga,22,49,U,24-Jan-20,135,Ashwini Iyer Tiwari,,Kangana Ranaut,Jassie Gill,Richa Chadda,Drama,Romance,Sport
+chakravyuh,17,30,U/A,24-Oct-12,152,Prakash Jha,Prakash Jha,Arjun Rampal,Abhay Deol,Manoj Bajpayee,Drama,Thriller,War
+saheb-biwi-aur-gangster-returns,21,19,U/A,7-Mar-13,136,Tigmanshu Dhulia,Tigmanshu Dhulia,Irrfan Khan,Jimmy Shergill,Hemendra Dandotiya,Action,Crime,Drama
+hasee-toh-phasee,36,26,U/A,7-Feb-14,141,Vinil Mathew,Anurag Kashyap,Sidharth Malhotra,Aariyan Gupta,Adah Sharma,Comedy,Romance,Romantic comedy
+chup-chup-ke,13,12,U,9-Jun-06,164,Priyadarshan Nair,Ronnie Screwvala,Kookie V. Gulati,Kookie V Gulati,Shahid Kapoor,Comedy,Drama,Romance
+cheeni-kum,17,11,U/A,25-May-07,129,R. Balki,Rajesh Rajilal,Amitabh Bachchan,Tabu Hashmi,Paresh Rawal,Comedy,Romance,Romantic comedy
+rocky-handsome,22,43,U/A,25-Mar-16,126,Nishikant Kamat,John Abraham,John Abraham,Shruti Haasan,Sharad Kelkar,Action,Adventure,Crime
+road-to-sangam,0.06,3,U,29-Jan-10,142,Amit Rai,Amit Chheda,Swati Chitnis,Pavan Malhotra,Paresh Rawal,Drama,Thriller,NA
+shagird,1,12,U/A,13-May-11,128,Tigmanshu Dhulia,Hussain Shaikh,Nana Patekar,Mohit Ahlawat,Rimi Sen,Action,Crime,Drama
+cocktail,74,53,U,13-Jul-12,130,Homi Adajania,Saif Ali Khan,Deepika Padukone,Saif Ali Khan,Randeep Hooda,Comedy,Drama,Romance
+notebook1,4,19,U,29-Mar-19,135,Nitin Kakkar,Salman Khan,Farzana,Mir Sarwar,Umesh Pawar,Romance,Drama,NA
+luka-chuppi,88,34,U/A,1-Mar-19,126,Laxman Utekar,Dinesh Vijan,Kartik Aaryan,Kriti Sanon,Aparshakti Khurana,Drama,Comedy,Romance
+ae-dil-hai-mushkil,106,98,U/A,28-Oct-16,157,Karan Johar,Karan Johar,Anushka Sharma,Aishwarya Rai Bachchan,Fawad Afzal Khan,Biography,Drama,Musical
+hanuman,5,3,U,21-Oct-05,137,Milind Ukey,,V.g. Samant,Vg Samant,Manish Wadhwa,Animation,Drama,NA
+the-attacks-of-2611,15,23,U/A,7-Mar-13,116,Ram Gopal Varma,,Nana Patekar,Ferzad Jehani,Jitendra Joshi,Documentary,Action,Crime
+second-marriage-dot-com,0.06,2,A,20-Aug-12,134,Gaurav Panjwani,,Subhash Ahuja,Syna Anand,Raman Atre,Drama,NA,NA
+maruti-mera-dosst,0.29,2,U,5-Jun-09,130,Manikya Raju,Abhimanyu Singh,Erik A. Nanda,Ritika Shah,Sameksha,Animation,Adventure,Drama
+bombay-talkies,9,12,U/A,3-May-13,127,Anurag Kashyap,,Karan Johar,Zoya Akhtar,Dibakar Banerjee,Drama,Romance,NA
+pyaar-ke-side-effects,8,6,A,15-Sep-06,132,Saket Chaudhary,Pritish Nandy,Rahul Bose,Mallika Sherawat,Jas Arora,Comedy,Drama,Romance
+msg-the-messenger,8,30,U,18-Sep-15,197,Jeetu Arora,Gurmeet Ram Rahim Singh Ji Insan,Gurmeet Ram Rahim Singh Ji Insan,Flora Saini,Gaurav Gera,Drama,Thriller,NA
+hamari-adhuri-kahani,32,40,U,11-Jun-15,131,Mohit Suri,Mukesh Bhatt,Emraan Hashmi,Vidya Balan,Rajkummar Rao,Drama,Romance,NA
+bhoothnath-returns,33,36,U,11-Apr-14,155,Nitesh Tiwari,Bhushan Kumar,Ranbir Kapoor,Amitabh Bachchan,Shah Rukh Khan,Comedy,Drama,Fantasy
+sadda-adda,0.34,2,U/A,13-Jan-12,130,Muazzam Beg,Rajeev R Agarwal,Karan Sharma,Kadambari Jethwani,Rohin Robert,Comedy,Drama,Romance
+babumoshai-bandookbaaz,9,10,A,25-Aug-17,122,Kushan Nandy,Ashmith Kunder,Bidita Bag,Shraddha Das,Nawazuddin Siddiqui,Action,Crime,Thriller
+club-60,0.32,5,U,6-Dec-13,137,Sanjay Tripathy,Bharat S Shah,Farooq Shaikh,Raghuvir Yadav,Tinnu Anand,Drama,NA,NA
+shivaay,84,103,U/A,27-Oct-16,153,Ajay Devgan,Ajay Devgan,Ajay Devgan,Erika Kaar,Girish Karnad,Action,Adventure,Drama
+aashayein,2,18,U/A,27-Aug-10,120,Nagesh Kukunoor,Nagesh Kukunoor,John Abraham,Girish Karnad,Shreyas Talpade,Comedy,Drama,NA
+bhoothnath,23,20,U,9-May-08,125,Vivek Sharma,Br Chopra,Amitabh Bachchan,Shah Rukh Khan,Juhi Chawla,Comedy,Drama,Family
+bachna-ae-haseeno,36,23,U/A,14-Aug-08,152,Siddharth Anand,Aditya Chopra,Deepika Padukone,Ranbir Kapoor,Bipasha Basu,Comedy,Drama,Romance
+salaam-namaste,26,11,U/A,9-Sep-05,158,Siddharth Anand,Aditya Chopra,Saif Ali Khan,Abhishek Bachchan,Preity Zinta,Comedy,Drama,Romance
+aarakshan,41,53,U,17-Aug-11,155,Prakash Jha,Firoz Nadiadwala,Deepika Padukone,Saif Ali Khan,Amitabh Bachchan,Drama,Thriller,NA
+jannat-2,42,20,A,4-May-12,138,Kunal Deshmukh,Mukesh Bhatt,Emraan Hashmi,Randeep Hooda,Esha Gupta,Crime,Drama,Thriller
+brothers-i,70,112,U/A,13-Aug-15,158,Karan Malhotra,Karan Johar,Sidharth Malhotra,Akshay Kumar,Kareena Kapoor Khan,Action,Drama,Sport
+luv-shuv-tey-chicken-khurana,6,11,U,2-Nov-12,135,Sameer Sharma,Anurag Kashyap,Rahul Bagga,Nimrat Kaur,Huma Qureshi,Comedy,NA,NA
+baazaar1,25,34,U/A,26-Oct-18,140,Gauravv K Chawla,Monisha Advani,Saif Ali Khan,Radhika Apte,Chitrangda Singh,Crime,Drama,Thriller
+go-goa-gone,24,19,A,10-May-13,108,Raj Nidimoru,Sunil Lulla,Krishna D.k.,Krishna Dk,Saif Ali Khan,Action,Adventure,Comedy
+pari,27,21,A,2-Mar-18,137,Prosit Roy,Anushka Sharma,Anushka Sharma,Parambrata Chatterjee,Ritabhari Chakraborty,Horror,Mystery,Fantasy
+romeo-akbar-walter,38,48,U/A,4-Apr-19,145,Robby Grewal,Ajay Kapoor,John Abraham,Abhishek Bachchan,Jackie Shroff,Thriller,Action,Drama
+mann,16,14,U/A,22-Jun-99,175,Indra Kumar,Bharat S Shah,Aamir Khan,Rani Mukerji,Anil Kapoor,Drama,Romance,Family
+kites-i,47,82,U/A,21-May-10,127,Anurag Basu,Rakesh Roshan,Kangana Ranaut,Hrithik Roshan,Barbara Mori,Action,Drama,Romance
+gattu,0.13,2,U,30-Nov-12,90,Rajan Khosa,Shravan Kumar H,Naresh Sharma,Jayanta Das,Ranjit Singh,Drama,NA,NA
+tiger-zinda-hai1,339,210,U/A,22-Dec-17,161,Ali Abbas Zafar,Aditya Chopra,Katrina Kaif,Salman Khan,Neha Hinge,Action,Adventure,Thriller
+dum-maaro-dum,31,31,U/A,22-Apr-11,125,Rohan Sippy,Ramesh Sippy,Deepika Padukone,Vidya Balan,Bipasha Basu,Action,Crime,Drama
+soldier-ii,21,8,U/A,12-Oct-98,163,Abbas Alibhai Burmawalla,Ramesh Sadhuram Taurani,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Action,Drama,Musical
+maharathi,2,9,U,5-Dec-08,114,Shivam Nair,Dhilin Mehta,Naseeruddin Shah,Boman Irani,Tara Sharma,Crime,Drama,Mystery
+running-shaadi,0.96,8,U/A,16-Feb-17,114,Amit Roy,Shoojit Sircar,Arsh Bajwa,Richa Meena,Taapsee Pannu,Comedy,Romance,Romantic comedy
+heyy-babyy,47,36,U,24-Aug-07,128,Sajid Khan,Sajid Nadiadwala,Akshay Kumar,Vidya Balan,Shah Rukh Khan,Comedy,Drama,Romance
+shamitabh,21,49,U/A,5-Feb-15,153,R. Balki,Sunil Lulla,R. Balki,Amitabh Bachchan,Dhanush,Comedy,Drama,Thriller
+humpty-sharma-ki-dulhania,72,33,U/A,11-Jul-14,134,Shashank Khaitan,Karan Johar,Varun Dhawan,Alia Bhatt,Jaswant Daman,Comedy,Drama,Romance
+soundtrack-i,0.62,5,A,7-Oct-11,132,Neerav Ghosh,Apurv Nagpal,Rajeev Khandelwal,Soha Ali Khan,Saini S. Johray,Drama,Musical,NA
+pihu,3,4,U,16-Nov-18,122,Vinod Kapri,Ronnie Screwvala,Rahul Bagga,Hrishita Bhatt,Myra Vishwakarma,Drama,Thriller,NA
+dus,23,22,U/A,8-Jul-05,152,Anubhav Sinha,Nitin Manmohan,Sanjay Dutt,Abhishek Bachchan,Sunil Shetty,Action,Crime,Drama
+dev,6,8,A,11-Jun-04,172,Govind Nihalani,Manmohan Shetty,Amitabh Bachchan,Kareena Kapoor Khan,Fardeen Khan,Drama,NA,NA
+asoka,11,12,U/A,26-Oct-01,183,Santosh Sivan,Shah Rukh Khan,Ajith Kumar,Kareena Kapoor Khan,Shah Rukh Khan,Action,Biography,Drama
+bhoot,0.06,0.25,A,30-May-03,113,Ram Gopal Varma,Nitin Manmohan,Ajay Devgan,Nana Patekar,Rekha Ganesan,Horror,Thriller,Mystery
+mohalla-assi,2,10,A,16-Nov-18,120,Chandraprakash Dwivedi,Vinay Tiwari,Sunny Deol,Ravi Kishan Shukla,Sakshi Tanwar,Comedy,Drama,NA
+aurangzeb,22,22,U/A,16-May-13,135,Atul Sabharwal,Aditya Chopra,Prithviraj Sukumaran,Arjun Kapoor,Rishi Kapoor,Action,Drama,Thriller
+aashiqui,0.04,2,U/A,23-Jul-90,152,Mahesh Bhatt,Gulshan Kumar,Anu Agrawal,Rahul Roy,Deepak Tijori,Musical,Drama,Romance
+satyagraha-i,55,73,U/A,30-Aug-13,152,Prakash Jha,Ronnie Screwvala,Arjun Rampal,Ajay Devgan,Amitabh Bachchan,Drama,NA,NA
+ki-ka,102,20,U/A,1-Apr-16,126,R. Balki,,Amitabh Bachchan,Arjun Kapoor,Kareena Kapoor Khan,Comedy,Romance,NA
+return-of-hanuman,1,16,U,28-Dec-07,103,Anurag Kashyap,,Raj Singh Jhinger,Malak Shah,Pinky Rajput,Animation,Action,Adventure
+raone,113,130,U/A,26-Oct-11,156,Anubhav Sinha,Shah Rukh Khan,Arjun Rampal,Priyanka Chopra,Rajinikanth,Action,Adventure,Fantasy
+simmba,239,139,U/A,28-Dec-18,159,Rohit Shetty,Rohit Shetty,Ranveer Singh,Akshay Kumar,Ajay Devgan,Action,Comedy,Drama
+judwaa,13,6,U/A,7-Feb-97,148,David Dhawan,Sajid Nadiadwala,Salman Khan,Tabu Hashmi,Karisma Kapoor,Action,Comedy,Drama
+shootout-at-wadala,53,49,A,3-May-13,150,Sanjay Gupta,Ekta Kapoor,Kangana Ranaut,Priyanka Chopra,John Abraham,Action,Biography,Crime
+rowdy-rathore,131,77,U/A,1-Jun-12,143,Prabhu Dheva,Sanjay Leela Bhansali,Akshay Kumar,Joseph Vijay,Sonakshi Sinha,Action,Comedy,NA
+ladies-vs-ricky-bahl,30,20,U/A,9-Dec-11,141,Maneesh Sharma,Aditya Chopra,Anushka Sharma,Ranveer Singh,Parineeti Chopra,Comedy,Drama,Romance
+singham-returns,140,105,U/A,15-Aug-14,142,Rohit Shetty,Ajay Devgan,Ajay Devgan,Kareena Kapoor Khan,Anupam Kher,Action,Drama,Crime
+mere-brother-ki-dulhan,57,32,U/A,9-Sep-11,139,Ali Abbas Zafar,Aditya Chopra,Katrina Kaif,Imran Khan,Tara D'souza,Comedy,Family,Romance
+singh-is-kinng,67,50,U,8-Aug-08,135,Anees Bazmee,Manmohan Shetty,Anees Bazmee,Akshay Kumar,Katrina Kaif,Action,Comedy,Crime
+phantom-i,51,72,U/A,28-Aug-15,147,Kabir Khan,Sajid Nadiadwala,Katrina Kaif,Saif Ali Khan,Sabyasachi Chakraborty,Action,Drama,Thriller
+partner,60,28,U/A,20-Jul-07,143,David Dhawan,Sohail Khan,Katrina Kaif,Salman Khan,Govinda,Comedy,Drama,Romance
+pati-patni-aur-woh1,80,43,U/A,6-Dec-19,135,Mudassar Aziz,Bhushan Kumar,Bhumi Pednekar,Kartik Aaryan,Kriti Sanon,Comedy,Romance,Drama
+anjaana-anjaani,40,40,U/A,1-Oct-10,151,Siddharth Anand,Sajid Nadiadwala,Priyanka Chopra,Ranbir Kapoor,Zayed Khan,Comedy,Drama,Musical
+khoobsurat,8,6,U/A,19-Sep-14,130,Shashanka Ghosh,Anil Kapoor,Sonam Kapoor,Fawad Afzal Khan,Aditi Rao Hydari,Comedy,Romance,NA
+ferrari-ki-sawaari,30,20,U,15-Jun-12,146,Rajesh Mapuskar,Vidhu Vinod Chopra,Vidya Balan,Sharman Joshi,Ritwik Sahore,Comedy,Drama,Family
+mere-dad-ki-maruti,10,11,U/A,14-Mar-13,101,Ashima Chibber,Ashish Patil,Rhea Chakraborty,Saqib Saleem,Ram Kapoor,Comedy,Drama,Romance
+haraamkhor,1,2,U/A,13-Jan-17,90,Shlok Sharma,Anurag Kashyap,Shlok Sharma,Trimala Adhikari,Nawazuddin Siddiqui,Drama,Romance,NA
+force,25,28,U/A,30-Sep-11,135,Nishikant Kamat,Vipul Amrutlal Shah,John Abraham,Genelia D Souza,Vidyut Jamwal,Action,Crime,Drama
+shuddh-desi-romance,46,25,U/A,5-Sep-13,141,Maneesh Sharma,Aditya Chopra,Sushant Singh Rajput,Rishi Kapoor,Vaani Kapoor,Drama,Romance,Crime
+style1,5,2,U/A,28-Dec-01,160,N. Chandra,Chandrashekhar Narvekar,Chandrashekhar Narvekar,Sharman Joshi,Sahil Khan,Comedy,Musical,Mystery
+ek-tha-tiger,186,92,U/A,15-Aug-12,158,Kabir Khan,Aditya Chopra,Katrina Kaif,Salman Khan,Gavie Chahal,Action,Adventure,Crime
+satyameva-jayate,79,45,A,15-Aug-18,141,Milap Zaveri,Bhushan Kumar,John Abraham,Manoj Bajpayee,Manish Chaudhari,Action,Thriller,Crime
+desi-boyz,45,54,A,25-Nov-11,122,Rohit Dhawan,Krishika Lulla,Akshay Kumar,Deepika Padukone,John Abraham,Comedy,Drama,Romance
+barah-aana,0.62,4,U/A,13-Mar-09,97,Raja Krishna Menon,Raja Krishna Menon,Naseeruddin Shah,Tannishtha Chatterjee,Violante Placido,Comedy,Crime,Drama
+golmaal-3,108,50,U,5-Nov-10,155,Rohit Shetty,Dhilin Mehta,Ajay Devgan,Mithun Chakraborty,Kareena Kapoor Khan,Action,Comedy,Family
+bang-bang-i,141,160,U/A,26-Sep-14,156,Siddharth Anand,Parth Arora,Hrithik Roshan,Katrina Kaif,Jimmy Shergill,Action,Adventure,Comedy
+khatta-meetha,39,35,U,23-Jul-10,153,Priyadarshan Nair,,Akshay Kumar,Trisha Krishnan,Nagesh Bhonsle,Comedy,Crime,Drama
+bol-bachchan,100,66,U/A,6-Jul-12,154,Rohit Shetty,Ajay Devgan,Asin Thottumkal,Ajay Devgan,Amitabh Bachchan,Action,Comedy,Drama
+dhoom3,260,175,U/A,20-Dec-13,173,Vijay Krishna Acharya,Aditya Chopra,Aamir Khan,Katrina Kaif,Abhishek Bachchan,Action,Crime,Drama
+ta-ra-rum-pum,38,30,U,27-Apr-07,158,Siddharth Anand,Aditya Chopra,Rani Mukerji,Saif Ali Khan,Victor Banerjee,Family,Romance,Sport
+mohenjo-daro,53,138,U/A,11-Aug-16,155,Ashutosh Gowariker,Siddharth Roy Kapur,Pooja Hegde,Hrithik Roshan,Nitish Bharadwaj,Action,Adventure,Drama
+ek-main-aur-ekk-tu,40,32,U/A,9-Feb-12,110,Shakun Batra,Karan Johar,Imran Khan,Kareena Kapoor Khan,Zenobia Shroff,Comedy,Drama,Romance
+corporate,10,6,U/A,7-Jul-06,143,Madhur Bhandarkar,,Bipasha Basu,Atul Kulkarni,Kay Kay Menon,Drama,NA,NA
+i-hate-luv-storys,43,23,U/A,2-Jul-10,134,Punit Malhotra,Karan Johar,Sonam Kapoor,Imran Khan,Sammir Dattani,Comedy,Drama,Romance
+ghayal-once-again,26,50,U/A,5-Feb-16,128,Sunny Deol,Dharmendra,Sunny Deol,Soha Ali Khan,Manoj Joshi,Action,Adventure,Drama
+naam-shabana,36,33,U/A,30-Mar-17,148,Shivam Nair,Neeraj Pandey,Akshay Kumar,Prithviraj Sukumaran,Anupam Kher,Action,Adventure,Thriller
+aaja-nachle,14,20,U,30-Nov-07,137,Anil Mehta,Aditya Chopra,Irrfan Khan,Madhuri Dixit,Akshaye Khanna,Drama,Family,Musical
+kis-kisko-pyaar-karoon,42,16,U/A,23-Sep-15,136,Abbas Alibhai Burmawalla,Ganesh Jain,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Comedy,Romance,NA
+kick,211,140,U/A,24-Jul-14,146,Sajid Nadiadwala,Sajid Nadiadwala,Mithun Chakraborty,Salman Khan,Randeep Hooda,Action,Crime,Romance
+housefull,72,47,U/A,30-Apr-10,154,Sajid Khan,Sajid Nadiadwala,Akshay Kumar,Arjun Rampal,Deepika Padukone,Comedy,Drama,Musical
+kaalakaandi,4,18,A,12-Jan-18,112,Akshat Verma,Rohit Khattar,Saif Ali Khan,Sobhita Dhulipala,Amyra Dastur,Comedy,Thriller,Drama
+arjun-the-warrior-prince,1,7,U/A,25-May-12,96,Arnab Chaudhuri,,Yudhveer Bakoliya,Ila Arun,Sachin Khedekar,Animation,Action,Adventure
+traffic-signal,8,5,U/A,2-Feb-07,129,Madhur Bhandarkar,,Konkona Sen Sharma,Neetu Chandra,Upendra Limaye,Drama,NA,NA
+36-china-town,23,19,U/A,21-Apr-06,140,Abbas Alibhai Burmawalla,Subhash Ghai,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Comedy,Mystery,Thriller
+miss-lovely1,0.37,5,A,17-Jan-14,113,Ashim Ahluwalia,Sanjay Shah,Niharika Singh,Anil George,Meneka Lalwani,Crime,Drama,Romance
+housefull-2,111,72,U/A,5-Apr-12,161,Sajid Khan,Sajid Nadiadwala,Akshay Kumar,Asin Thottumkal,John Abraham,Comedy,Family,Musical
+patiala-house,32,50,U,10-Feb-11,140,Nikhil Advani,Bhushan Kumar,Anushka Sharma,Akshay Kumar,Rishi Kapoor,Comedy,Drama,Sport
+maine-pyaar-kyun-kiya,25,15,U,15-Jul-05,145,David Dhawan,Dhilin Mehta,Katrina Kaif,Salman Khan,Arshad Warsi,Comedy,Drama,Romance
+de-dana-dan,48,60,U/A,27-Nov-09,163,Priyadarshan Nair,Bharat S Shah,Akshay Kumar,Katrina Kaif,Sunil Shetty,Comedy,Drama,Musical
+zero,88,270,U/A,21-Dec-18,164,Aanand L. Rai,Aanand L Rai,Anushka Sharma,Rani Mukerji,Alia Bhatt,Romance,Sci-fi,Drama
+ankur-arora-murder-case,0.58,7,U/A,14-Jun-13,135,Suhail Tatari,Vikram Bhatt,Kay Kay Menon,Vishakha Singh,Manish Chaudhari,Drama,Thriller,NA
+matru-ki-bijlee-ka-mandola,38,41,U/A,10-Jan-13,151,Vishal Bhardwaj,Vishal Bhardwaj,Anushka Sharma,Imran Khan,Lekha Washington,Comedy,Drama,NA
+chashme-baddoor,68,19,U/A,5-Apr-13,132,David Dhawan,,Siddharth Narayan,Rishi Kapoor,Anupam Kher,Comedy,Drama,Romance
+saawariya,20,45,U,8-Nov-07,142,Sanjay Leela Bhansali,Sanjay Leela Bhansali,Sonam Kapoor,Rani Mukerji,Ranbir Kapoor,Drama,Musical,Romance
+raaz-the-mystery-continues,25,18,U/A,23-Jan-09,146,Mohit Suri,Mukesh Bhatt,Emraan Hashmi,Kangana Ranaut,Jackie Shroff,Horror,Mystery,Thriller
+yamla-pagla-deewana,30,46,U/A,14-Jan-11,163,Samir Karnik,Nitin Manmohan,Ajay Devgan,Dharmendra,Bobby Deol,Action,Comedy,Drama
+krrish-3,175,95,U,31-Oct-13,152,Rakesh Roshan,Rakesh Roshan,Kangana Ranaut,Hrithik Roshan,Priyanka Chopra,Action,Adventure,Romance
+race-2,93,94,U/A,25-Jan-13,146,Abbas Mustan,Ramesh Taurani,Saif Ali Khan,Anil Kapoor,John Abraham,Action,Crime,Thriller
+shaadi-ke-side-effects,38,43,U/A,28-Feb-14,145,Saket Chaudhary,Shobha Kapoor,Vidya Balan,Farhan Akhtar,Rati Agnihotri,Comedy,Romance,Romantic comedy
+bharat,197,240,U/A,5-Jun-19,155,Ali Abbas Zafar,Bhushan Kumar,Varun Dhawan,Katrina Kaif,Salman Khan,Drama,Action,NA
+mukhbiir,0.16,3,U/A,22-Aug-08,132,Mani Shankar,Sudhish Ram Medhla,Jackie Shroff,Sunil Shetty,Sammir Dattani,Crime,Drama,Mystery
+garv-pride-and-honour,20,8,A,9-Jul-04,162,Puneet Issar,Prem Krishan,Salman Khan,Anupam Kher,Nimai Bali,Action,Crime,Drama
+student-of-the-year,65,65,U,19-Oct-12,136,Karan Johar,Shah Rukh Khan,Abhishek Varman,Sidharth Malhotra,Varun Dhawan,Comedy,Drama,Romance
+ramji-londonwaley,1,4,U/A,2-Sep-05,154,Sanjay Dayma,Sunanda Murali Manohar,R Madhavan,Amitabh Bachchan,Vishwa Bhanu,Comedy,Drama,Family
+dobaara-see-your-evil,1,10,A,21-Sep-18,67,Prawaal Raman,Sunil Shah,Parvathy Omanakuttan,Saqib Saleem,Huma Qureshi,Drama,Horror,Romance
+force-2,31,41,U/A,17-Nov-16,126,Abhinay Deo,Vipul Amrutlal Shah,John Abraham,Sonakshi Sinha,Tahir Raj Bhasin,Action,Adventure,Crime
+made-in-china1,10,30,U/A,25-Oct-19,135,Mikhil Musale,Dinesh Vijan,Jay Bhatt,Jeffrey Ho,Amyra Dastur,Drama,Comedy,NA
+billu,22,27,U/A,12-Feb-09,137,Priyadarshan Nair,,Deepika Padukone,Priyanka Chopra,Irrfan Khan,Comedy,Drama,Musical
+dhol,16,14,U,14-Sep-07,142,Priyadarshan Nair,Satish Kaushik,Sharman Joshi,Tanushree Dutta,Tusshar Kapoor,Comedy,Crime,Mystery
+lucknow-central,11,30,U/A,14-Sep-17,147,Ranjit Tiwari,Madhu Bhojwani,Farhan Akhtar,Gippy Grewal,Deepak Dobriyal,Action,Crime,Drama
+a-gentleman,38,60,U/A,25-Aug-17,132,Raj Nidimoru,Vijay Singh,Krishna D.k.,Krishna Dk,Sidharth Malhotra,Action,Comedy,Romance
+commando-a-one-man-army,21,17,U/A,11-Apr-13,120,Dilip Ghosh,Vipul Shah,Jigar Gill,Hsieh Chang Hai,Nelson Liao Sheng Hua,Action,Adventure,Drama
+dilwale,139,165,U/A,17-Dec-15,155,Rohit Shetty,Rohit Shetty,Kriti Sanon,Varun Dhawan,Kajol Devgn,Action,Comedy,Crime
+anwar,0.08,3,U/A,12-Jan-07,144,Manish Jha,Rajesh Singh,Manish Jha,Manisha Koirala,Siddharth Koirala,Drama,Romance,Thriller
+woh-lamhe,6,7,A,29-Sep-06,132,Mohit Suri,Mukesh Bhatt,Kangana Ranaut,Shiney Ahuja,Mirza Abbas Ali,Biography,Drama,Romance
+singh-is-bliing,116,91,U/A,1-Oct-15,141,Prabhu Dheva,Ashvini Yardi,Akshay Kumar,Shahid Kapoor,Amy Jackson,Action,Comedy,Drama
+jab-harry-met-sejal1,62,119,U/A,3-Aug-17,143,Imtiaz Ali,Gauri Khan,Anushka Sharma,Shah Rukh Khan,Rana Ranbir,Comedy,Drama,Romance
+golmaal-again,205,142,U/A,19-Oct-17,151,Rohit Shetty,Ajay Devgan,Deepika Padukone,Ajay Devgan,Nana Patekar,Action,Comedy,Fantasy
+jai-ho-i,109,102,U/A,23-Jan-14,145,Sohail Khan,Sunil Lulla,Salman Khan,Tabu Hashmi,Sunil Shetty,Action,Crime,Drama
+happy-new-year-i,178,150,U,23-Oct-14,180,Farah Khan,Shah Rukh Khan,Deepika Padukone,Shah Rukh Khan,Abhishek Bachchan,Action,Comedy,Crime
+r-rajkumar,65,58,U/A,5-Dec-13,146,Prabhu Dheva,Sunil Lulla,Shahid Kapoor,Sonakshi Sinha,Ragini Dwivedi,Action,Romance,Comedy
+baaghi,76,37,U/A,28-Apr-16,139,Sabbir Khan,Sajid Nadiadwala,Tiger Shroff,Shraddha Kapoor,Riteish Deshmukh,Action,Romance,Thriller
+raavan,28,55,U,18-Jun-10,138,Mani Ratnam,Mani Ratnam,Vikram,Aishwarya Rai Bachchan,Govinda,Action,Adventure,Crime
+london-dreams,25,63,U,30-Oct-09,152,Vipul Amrutlal Shah,Aashin A Shah,Asin Thottumkal,Ajay Devgan,Salman Khan,Drama,Music,Musical
+heropanti,50,25,U/A,22-May-14,146,Sabbir Khan,Sajid Nadiadwala,Kriti Sanon,Tiger Shroff,Prakash Raj,Action,Romance,Drama
+dharam-sankat-mein,9,14,U/A,10-Apr-15,129,Fuwad Khan,Sajjad Chunawala,Naseeruddin Shah,Gippy Grewal,Auritra Ghosh,Comedy,Drama,NA
+golmaal-returns,51,35,U,29-Oct-08,135,Rohit Shetty,Dhilin Mehta,Ajay Devgan,Kareena Kapoor Khan,Sharman Joshi,Comedy,Crime,Drama
+do-lafzon-ki-kahani,2,11,U/A,10-Jun-16,127,Deepak Tijori,Sunil A Lulla,Kajal Aggarwal,Randeep Hooda,Mamik,Action,Drama,Romance
+main-tera-hero,53,41,U/A,3-Apr-14,128,David Dhawan,Ekta Kapoor,Ileana D'cruz,Varun Dhawan,Salman Khan,Action,Comedy,Romance
+monsoon-shootout,0.71,12,U/A,15-Dec-17,92,Amit Kumar,Guneet Monga,Geetanjali Thapa,Tannishtha Chatterjee,Neeraj Kabi,Action,Crime,Drama
+housefull-3,108,97,U/A,2-Jun-16,134,Farhad Samji,Sajid Nadiadwala,Sajid,Sajid Samji,Akshay Kumar,Action,Comedy,Drama
+agent-vinod,43,60,U/A,23-Mar-12,162,Sriram Raghavan,Saif Ali Khan,Saif Ali Khan,Kareena Kapoor Khan,Adil Hussain,Action,Adventure,Thriller
+dabangg-2,149,84,U/A,20-Dec-12,129,Arbaaz Khan,Arbaaz Khan,Sonakshi Sinha,Salman Khan,Kareena Kapoor Khan,Action,Comedy,Drama
+kyaa-kool-hai-hum,15,5,A,6-May-05,172,Sangeeth Sivan,Ekta Kapoor,Riteish Deshmukh,Anupam Kher,Tusshar Kapoor,Comedy,Mystery,NA
+daawat-e-ishq,35,32,U,5-Sep-14,123,Habib Faisal,Aditya Chopra,Anupam Kher,Aditya Roy Kapoor,Karan Wahi,Comedy,Drama,Romance
+raja-natwarlal,23,47,U/A,29-Aug-14,142,Kunal Deshmukh,Ronnie Screwvala,Emraan Hashmi,Humaima Malick,Kay Kay Menon,Drama,Thriller,Crime
+7-khoon-maaf,19,25,U,17-Feb-11,137,Vishal Bhardwaj,Vishal Bhardwaj,Priyanka Chopra,John Abraham,Irrfan Khan,Drama,Mystery,Thriller
+phillauri,25,29,U/A,23-Mar-17,137,Anshai Lal,Anushka Sharma,Mehreen Pirzada,Anushka Sharma,Diljit Dosanjh,Comedy,Drama,Fantasy
+dishoom,68,61,U/A,28-Jul-16,124,Rohit Dhawan,Sajid Nadiadwala,Akshay Kumar,Varun Dhawan,John Abraham,Action,Adventure,Comedy
+inkaar,10,14,U/A,18-Jan-13,130,Sudhir Mishra,Viki Rajani,Arjun Rampal,Amaan Khan,Mithun Rodwittiya,Drama,Romance,Thriller
+baaghi-2,160,59,U/A,23-Mar-18,144,Ahmed Khan,Sajid Nadiadwala,Tiger Shroff,Shraddha Kapoor,Disha Patani,Action,Romance,Thriller
+the-hero-love-story-of-a-spy,45,35,U,10-Apr-03,160,Anil Sharma,Pravin Shah,Priyanka Chopra,Sunny Deol,Preity Zinta,Action,Adventure,Drama
+boss-i,49,70,U/A,16-Oct-13,144,Anthony D'souza,Ashwin Varde,Akshay Kumar,Amitabh Bachchan,Sonakshi Sinha,Action,Comedy,Drama
+kismat-konnection,22,27,U,18-Jul-08,153,Aziz Mirza,Ramesh Sadhuram Taurani,Shahid Kapoor,Vidya Balan,Shah Rukh Khan,Comedy,Drama,Romance
+bullett-raja,53,52,U/A,28-Nov-13,138,Tigmanshu Dhulia,Tigmanshu Dhulia,Saif Ali Khan,Sonakshi Sinha,Jimmy Shergill,Action,Crime,Drama
+bodyguard,144,70,U/A,30-Aug-11,134,Siddique,Alvira Khan,Katrina Kaif,Salman Khan,Kareena Kapoor Khan,Action,Romance,Drama
+lateef-film,0.67,4,U/A,20-Jun-15,109,Israr Ahmed,,Nawazuddin Siddiqui,Sudesh Berry,Pratima Kazmi,Action,Crime,Drama
+jal,0.51,6,U/A,4-Apr-14,135,Girish Malik,Girish Malik,Habib Aazmi,Kusum Ahir,Tannishtha Chatterjee,Drama,NA,NA
+mere-baap-pehle-aap,22,20,U,13-Jun-08,161,Priyadarshan Nair,Raman Maroo,Akshaye Khanna,Naseeruddin Shah,Genelia D Souza,Comedy,Drama,Romance
+salaam-e-ishq,22,43,U/A,25-Jan-07,215,Nikhil Advani,Mukesh Talreja,Vidya Balan,Priyanka Chopra,John Abraham,Comedy,Drama,Musical
+phata-poster-nikhla-hero,72,54,U,19-Sep-13,146,Rajkumar Santoshi,Ramesh Sadhuram Taurani,Ileana D'cruz,Shahid Kapoor,Salman Khan,Action,Comedy,Drama
+kyaa-super-kool-hain-hum,42,19,A,27-Jul-12,137,Sachin Yardi,Shobha Kapoor,Riteish Deshmukh,Anupam Kher,Neha Sharma,Comedy,Romance,NA
+heroine,33,35,U,21-Sep-12,150,Madhur Bhandarkar,Madhur Bhandarkar,Arjun Rampal,Kareena Kapoor Khan,Randeep Hooda,Drama,NA,NA
+baadshaho,65,90,U/A,31-Aug-17,136,Milan Luthria,Bhushan Kumar,Emraan Hashmi,Ileana D'cruz,Ajay Devgan,Action,Adventure,Thriller
+sixteen,1,2,A,12-Jul-13,138,Raj Purohit,Shailesh R Singh,Wamiqa Gabbi,Zakir Hussain,Prableen Sandhu,Drama,Romance,Thriller
+batti-gul-meter-chalu,36,49,U/A,20-Sep-18,175,Shree Narayan Singh,Bhushan Kumar,Shree Narayan Singh,Ram Charan Teja,Shahid Kapoor,Comedy,Drama,NA
+once-upon-a-time-in-mumbai-dobaara,91,85,U/A,15-Aug-13,160,Milan Luthria,Ekta Kapoor,Akshay Kumar,Vidya Balan,Imran Khan,Action,Crime,Drama
+prem-ratan-dhan-payo,194,180,U,12-Nov-15,174,Sooraj R. Barjatya,Ajit Kumar Barjatya,Sooraj R. Barjatya,Sonam Kapoor,Salman Khan,Action,Comedy,Drama
+main-aur-charles,5,10,A,30-Oct-15,123,Prawal Raman,Vikram Khakhar,Anastasia Fullfina,Randeep Hooda,Richa Chadda,Action,Biography,Crime
+halla-bol,12,27,U/A,11-Jan-08,148,Rajkumar Santoshi,Samee Siddiqui,Mohanlal Viswanathan,Mammootty,Vidya Balan,Crime,Drama,Action
+gulaab-gang,10,29,U/A,6-Mar-14,139,Soumik Sen,Anubhav Sinha,Madhuri Dixit,Juhi Chawla,Tannishtha Chatterjee,Action,Drama,NA
+thank-you-i,45,61,U,7-Apr-11,125,Anees Bazmee,Twinkle Khanna,Anees Bazmee,Sonam Kapoor,Akshay Kumar,Comedy,Crime,Drama
+total-dhamaal,150,113,U,21-Feb-19,135,Indra Kumar,Ajay Devgan,Ajay Devgan,Madhuri Dixit,Sonakshi Sinha,Comedy,Drama,Action
+grand-masti,91,34,A,13-Sep-13,137,Indra Kumar,Bharat S Shah,Riteish Deshmukh,Vivek Oberoi,Manjari Phadnis,Comedy,Drama,Romance
+ekk-deewana-tha,5,14,U/A,16-Feb-12,137,Gautham Menon,Gautham Menon,Samantha Ruth Prabhu,Amy Jackson,Prateik Babbar,Drama,Romance,NA
+cheat-india,8,20,U/A,17-Jan-19,135,Soumik Sen,Bhushan Kumar,Emraan Hashmi,Shreya Dhanwanthary,Durgesh Kumar,Drama,Comedy,Crime
+meri-pyaari-bindu,9,22,U/A,11-May-17,117,Akshay Roy,Aditya Chopra,Biswajit Chakraborty,Ayushmann Khurrana,Amrita Bagchi,Drama,Romance,Comedy
+bank-chor,7,15,U/A,16-Jun-17,129,Bumpy,Aditya Chopra,Riteish Deshmukh,Rhea Chakraborty,Vivek Oberoi,Comedy,Thriller,Crime
+mental-hai-kya,33,32,U/A,25-Jul-19,135,Prakash Kovelamudi,Ekta Kapoor,Kangana Ranaut,Jimmy Shergill,Karan Ashar,Comedy,Drama,Mystery
+akira-i,26,32,U/A,1-Sep-16,138,A.r. Murugadoss,Ar Murugadoss,Ar Murugadoss,Sonakshi Sinha,Konkona Sen Sharma,Action,Crime,Drama
+dhadak,72,41,U/A,20-Jul-18,137,Shashank Khaitan,Karan Johar,Balaji Gauri,Aishwarya Narkar,Shalini Kapoor,Drama,Romance,Comedy
+its-entertainment,64,81,U/A,7-Aug-14,141,Sajid Nadiadwala,Ramesh Sadhuram Taurani,Farhad Samji,Sajid,Rick Alverson,Drama,Action,Comedy
+welcome-back,95,108,U/A,3-Sep-15,153,Anees Bazmee,Anees Bazmee,Anees Bazmee,John Abraham,Nana Patekar,Action,Comedy,Crime
+mausam,31,49,U,22-Sep-11,164,Pankaj Kapur,Madhu Mantena Varma,Sonam Kapoor,Shahid Kapoor,Anupam Kher,Drama,Romance,War
+thoda-pyaar-thoda-magic,21,23,U,27-Jun-08,145,Kunal Kohli,Aditya Chopra,Rani Mukerji,Saif Ali Khan,Rishi Kapoor,Comedy,Drama,Family
+chalk-n-duster-i,1,12,U,15-Jan-16,130,Jayant Gilatar,Amin Surani,Rishi Kapoor,Juhi Chawla,Jackie Shroff,Drama,NA,NA
+u-me-aur-hum,20,25,U/A,10-Apr-08,167,Ajay Devgan,Ajay Devgan,Ajay Devgan,Kajol Devgn,Isha Sharvani,Drama,Musical,Romance
+son-of-sardaar,88,67,U/A,13-Nov-12,141,Ashwani Dhir,Ajay Devgan,Anil Devgan,Ashwani Dheer,Ajay Devgan,Action,Comedy,Drama
+khiladi-786,64,63,U,7-Dec-12,141,Ashish R. Mohan,Sunil Lulla,Kushal Ved Bakshi,Ashish R Mohan,Akshay Kumar,Action,Comedy,Drama
+jhootha-hi-sahi,15,35,U,22-Oct-10,149,Abbas Tyrewala,Abbas Tyrewala,R Madhavan,Imran Khan,John Abraham,Comedy,Drama,Romance
+satya-2,2,14,A,24-Oct-13,132,Ram Gopal Varma,M Sumanth Kumar Reddy,Puneet Singh Ratn,Anaika Soti,Saini S. Johray,Crime,Drama,Action
+tubelight,114,135,U,23-Jun-17,136,Kabir Khan,Salman Khan,Salman Khan,Shah Rukh Khan,Kapil Sharma,Action,Drama,War
+irada,0.8,7,U/A,16-Feb-17,109,Aparna Singh,Prince Soni,Nishant Tripathi,Naseeruddin Shah,Sagarika Ghatge,Drama,Mystery,Thriller
+raaz-3-the-third-dimension,67,31,A,7-Sep-12,135,Vikram Bhatt,Mukesh Bhatt,Emraan Hashmi,Bipasha Basu,Esha Gupta,Horror,Mystery,Romance
+judwaa-2,132,63,U/A,29-Sep-17,149,David Dhawan,Sajid Nadiadwala,Varun Dhawan,Salman Khan,Anupam Kher,Action,Comedy,Drama
+hate-story-3,43,20,A,4-Dec-15,131,Vishal Pandya,Bhushan Kumar,Sharman Joshi,Priyanshu Chatterjee,Zarine Khan,Drama,Thriller,Romance
+half-girlfriend,52,58,U/A,18-May-17,135,Mohit Suri,Ekta Kapoor,Shraddha Kapoor,Arjun Kapoor,Rhea Chakraborty,Drama,Romance,NA
+knock-out,6,30,U/A,15-Oct-10,117,Mani Shankar,Sohail Maklai,Kangana Ranaut,Irrfan Khan,Sanjay Dutt,Action,Crime,Mystery
+honeymoon-travels-pvt-ltd,0.4,10,U/A,23-Feb-07,120,Reema Kagti,Farhan Akhtar,Arjun Rampal,Abhay Deol,Kay Kay Menon,Comedy,Drama,Romance
+tere-naal-love-ho-gaya,19,14,U/A,24-Feb-12,132,Mandeep Kumar,Renu Taurani,Riteish Deshmukh,Diljit Dosanjh,Genelia D Souza,Comedy,Drama,Romance
+ghanchakkar,28,29,U/A,27-Jun-13,138,Raj Kumar Gupta,Ronnie Screwvala,Emraan Hashmi,Vidya Balan,Parvin Dabas,Comedy,Crime,Thriller
+nautanki-saala,22,16,U/A,11-Apr-13,130,Rohan Sippy,Bhushan Kumar,Ayushmann Khurrana,Pooja Salvi,Gaelyn Mendonca,Comedy,Drama,NA
+azhar,30,40,U/A,13-May-16,131,Anthony D'souza,Ekta Kapoor,Tony D Souza,Emraan Hashmi,Nargis Fakhri,Biography,Drama,Sport
+kambakkht-ishq,47,65,U/A,3-Jul-09,142,Sabbir Khan,Sajid Nadiadwala,Sabir Khan,Akshay Kumar,Kareena Kapoor Khan,Action,Comedy,Romance
+roy,35,50,U/A,12-Feb-15,147,Vikramjit Singh,Bhushan Kumar,Arjun Rampal,Ranbir Kapoor,Anupam Kher,Action,Drama,Romance
+oh-my-god,0.41,3,A,8-Jan-16,96,Venu Srivaastav,Venu Mukkapati,Megha Sri,Tanish Alladi,Mhairi Calvey,Drama,Horror,NA
+befikre,60,64,U/A,8-Dec-16,132,Aditya Chopra,Aditya Chopra,Ranveer Singh,Vaani Kapoor,Julie Ordon,Comedy,Drama,Romance
+blue-i,38,80,U/A,16-Oct-09,119,Anthony D'souza,Dhillin Mehta,Akshay Kumar,Katrina Kaif,Sanjay Dutt,Action,Adventure,Romance
+action-replayy,28,51,U,5-Nov-10,135,Vipul Amrutlal Shah,Vipul Amrutlal Shah,Akshay Kumar,Aishwarya Rai Bachchan,Aditya Roy Kapoor,Action,Comedy,Drama
+jail,6,14,U/A,6-Nov-09,131,Madhur Bhandarkar,,Vipul Bhatt,Manoj Bajpayee,Atul Kulkarni,Drama,NA,NA
+besharam,56,83,U/A,2-Oct-13,138,Abhinav Kashyap,Himanshu Mehra,Ranbir Kapoor,Rishi Kapoor,Neetu Singh Kapoor,Comedy,Romance,Action
+tashan,29,31,U/A,24-Apr-08,154,Vijay Krishna Acharya,Aditya Chopra,Akshay Kumar,Saif Ali Khan,Kareena Kapoor Khan,Action,Drama,Romance
+kalank,80,137,U/A,17-Apr-19,135,Abhishek Varman,Sajid Nadiadwala,Kriti Sanon,Varun Dhawan,Alia Bhatt,Drama,History,Romance
+samrat-co,1,15,U/A,25-Apr-14,126,Kaushik Ghatak,Kavita Barjatya,Rajeev Khandelwal,Indraneil Sengupta,Madalasa Sharma,Mystery,Thriller,Drama
+race-3,166,185,U/A,14-Jun-18,159,Remo D Souza,Salman Khan,Salman Khan,Anil Kapoor,Bobby Deol,Action,Thriller,Drama
+motichoor-chaknachoor,2,19,U/A,15-Nov-19,135,Debamitra Biswal,Rajesh Bhatia,Athiya Shetty,Nawazuddin Siddiqui,Navni Parihar,Comedy,Romance,Drama
+ungli,16,39,U/A,27-Nov-14,114,Renzil D'silva,Karan Johar,Emraan Hashmi,Kangana Ranaut,Shraddha Kapoor,Comedy,Drama,Thriller
+london-paris-new-york,6,10,U/A,1-Mar-12,100,Anu Menon,Goldie Behl,Candice Pereira,Aditi Rao Hydari,Alina Chan,Romance,NA,NA
+dil-toh-baccha-hai-ji,28,29,A,27-Jan-11,146,Madhur Bhandarkar,Kumar Mangat Pathak,Emraan Hashmi,Ajay Devgan,Shruti Haasan,Comedy,Drama,Romance
+ek-thi-daayan,26,26,U/A,18-Apr-13,134,Kannan Iyer,Shobha Kapoor,Emraan Hashmi,Kalki Koechlin,Konkona Sen Sharma,Horror,Romance,Thriller
+ragini-mms-2,46,19,A,21-Mar-14,119,Bhushan Patel,Ekta Kapoor,Anitha,Annapurna,Sunny Leone,Horror,Drama,Romance
+krishna-aur-kans,0.98,12,U,3-Aug-12,117,Vikram Veturi,,Juhi Chawla,Anupam Kher,Harish Bhimani,Animation,Action,Adventure
+phir-milenge,2,5,U,13-Aug-04,142,Revathi,George Pius Tharayil,Salman Khan,Abhishek Bachchan,Kamalini Mukherjee,Drama,NA,NA
+veere-di-wedding,80,42,A,1-Jun-18,125,Shashanka Ghosh,Anil Kapoor,Sonam Kapoor,Kareena Kapoor Khan,Sukhesh Arora,Comedy,Drama,Romantic comedy
+action-jackson-i,57,93,U/A,4-Dec-14,144,Prabhu Dheva,Sunil Lulla,Prabhas,Shahid Kapoor,Ajay Devgan,Action,Comedy,Drama
+tees-maar-khan,60,45,U/A,24-Dec-10,137,Farah Khan,Shirish Kunder,Akshay Kumar,Katrina Kaif,Akshaye Khanna,Comedy,Crime,Drama
+no-problem-i,28,40,U/A,10-Dec-10,143,Anees Bazmee,Anil Kapoor,Anees Bazmee,Kangana Ranaut,Akshaye Khanna,Action,Comedy,Crime
+zed-plus,0.57,5,U/A,28-Nov-14,140,Chandra Prakash Dwivedi,,Chandraprakash Dwivedi,Adil Hussain,Mona Singh,Comedy,Drama,NA
+chhota-bheem-himalayan-adventure,3,5,U/A,8-Jan-16,97,Rajiv Chilaka,Rajiv Chilaka,Rusauro B. Adorable,Rusauro B Adorable,Ketan Kava,Animation,Adventure,NA
+purani-jeans,1,11,U/A,1-May-14,136,Tanushri Chattrji Bassu,Manju Lulla,Param Baidwaan,Kashika Chopra,Sammy Durrani,Drama,NA,NA
+munna-michael,47,41,U/A,21-Jul-17,139,Sabbir Khan,Sunil Lulla,Tiger Shroff,Amit Lekhwani,Anaika Soti,Action,Drama,Musical
+gunday,73,51,U/A,14-Feb-14,153,Ali Abbas Zafar,Aditya Chopra,Ranveer Singh,Priyanka Chopra,Irrfan Khan,Action,Drama,Romance
+thugs-of-hindostan,138,310,U/A,7-Nov-18,165,Vijay Krishna Acharya,Aditya Chopra,Aamir Khan,Katrina Kaif,Amitabh Bachchan,Action,Adventure,Drama
+begum-jaan,20,19,A,14-Apr-17,134,Srijit Mukherji,Mukesh Bhatt,Vidya Balan,Amitabh Bachchan,Naseeruddin Shah,Action,Drama,History
+rangoon,20,61,U/A,23-Feb-17,154,Vishal Bhardwaj,Sajid Nadiadwala,Shahid Kapoor,Kangana Ranaut,Saif Ali Khan,Action,Drama,History
+we-are-family,21,30,U,3-Sep-10,115,Siddharth Malhotra,Karan Johar,Arjun Rampal,Kajol Devgn,Kareena Kapoor Khan,Drama,Family,NA
+bombay-velvet,22,118,U/A,15-May-15,151,Anurag Kashyap,Anurag Kashyap,Anushka Sharma,Ranbir Kapoor,Ranbir Kapoor,Crime,Drama,Thriller
+double-dhamaal,45,29,U/A,14-Apr-11,140,Indra Kumar,Indra Kumar,Kangana Ranaut,Sanjay Dutt,Riteish Deshmukh,Comedy,Crime,Drama
+bumboo,0.28,2,U/A,30-Mar-12,126,Jagdish Rajpurohit,,Akkash Basnet,Shailesh Hejmady,Mandy Takhar,Comedy,Drama,NA
+shaandaar,39,69,U/A,22-Oct-15,145,Vikas Bahl,Anurag Kashyap,Shahid Kapoor,Alia Bhatt,Neel Tyagi,Comedy,Drama,Romance
+sikandar,0.58,5,U,20-Aug-09,110,Piyush Jha,Sudhir Mishra,R Madhavan,Ayesha Kapoor,Irfan Choudhary,Crime,Drama,Mystery
+student-of-the-year-2,65,65,U/A,9-May-19,146,Punit Malhotra,Karan Johar,Tiger Shroff,Alia Bhatt,Will Smith,Romance,Comedy,Drama
+humshakals,52,64,U/A,20-Jun-14,160,Sajid Khan,Vashu Bhagnani,Tamanna Bhatia,Saif Ali Khan,Bipasha Basu,Comedy,NA,NA
+hulla,0.11,1,U/A,19-Sep-08,107,Jaideep Varma,Sunil Doshi,Mandeep Mazumdar,Kartika Rane,Dibyendu Bhattacharya,Comedy,Drama,NA
+singh-saab-the-great,21,42,U/A,21-Nov-13,150,Anil Sharma,Anuj Sharma,Dharmendra,Bobby Deol,Sunny Deol,Action,Drama,Comedy
+indu-sarkar,4,12,U/A,28-Jul-17,139,Madhur Bhandarkar,Bharat S Shah,Anupam Kher,Kirti Kulhari,Neil Nitin Mukesh,Drama,History,Thriller
+rascals,33,46,U/A,6-Oct-11,128,David Dhawan,Sanjay Dutt,Arjun Rampal,Kangana Ranaut,Ajay Devgan,Action,Comedy,Crime
+dabangg-3,134,178,U/A,20-Dec-19,163,Prabhu Dheva,Salman Khan,Sonakshi Sinha,Salman Khan,Devendra Gaikwad,Action,Romance,Thriller
+love-story-2050,11,40,U/A,4-Jul-08,180,Harry Baweja,,Priyanka Chopra,Harman Baweja,Boman Irani,Action,Drama,Romance
+chef1,6,31,U/A,6-Oct-17,133,Raja Krishna Menon,Raja Krishna Menon,Jon Favreau,Robert Downey Jr,Saif Ali Khan,Comedy,Drama,Family
+yaariyan,38,21,U/A,10-Jan-14,145,Divya Khosla Kumar,Bhushan Kumar,Himansh Kohli,Sayali Bhagat,Rakul Preet Singh,Drama,Romance,NA
+jungle,8,4,A,14-Jul-00,152,Ram Gopal Varma,,Sunil Shetty,Fardeen Khan,Swati Chitnis,Action,Adventure,Romance
+bewakoofiyaan,13,22,U/A,13-Mar-14,119,Nupur Asthana,Aditya Chopra,Sonam Kapoor,Ayushmann Khurrana,Rishi Kapoor,Comedy,Drama,Romance
+ek-ladki-ko-dekha-toh-aisa-laga,19,35,U/A,1-Feb-19,135,Shelly Chopra Dhar,Vidhu Vinod Chopra,Sonam Kapoor,Juhi Chawla,Anil Kapoor,Comedy,Drama,Romance
+delhi-in-a-day,0.06,0.75,U,24-Aug-12,88,Prashant Nair,,Siddharth Bharadwaj,Victor Banerjee,Arun Mallick Kumar,Comedy,Drama,NA
+commando-3,32,29,U/A,29-Nov-19,134,Aditya Datt,Vipul Amrutlal Shah,Aditya Dhar,Adah Sharma,Gulshan Devaiah,Action,Thriller,Drama
+fida,9,10,U/A,20-Aug-04,122,Ken Ghosh,Ramesh Sadhuram Taurani,Shahid Kapoor,Kareena Kapoor Khan,Fardeen Khan,Action,Romance,Thriller
+sankat-city,0.82,3,U/A,10-Jul-09,120,Pankaj Advani,,Anupam Kher,Kay Kay Menon,Rimi Sen,Comedy,Crime,Drama
+shree,0.12,3,U/A,26-Apr-13,109,Rajesh Bachchani,Vikram Shah,Hussain Kuwajerwala,Raj Arjun,Jitendra Vashishth,Sci-fi,NA,NA
+gang,2,5,A,21-Apr-00,174,Mazhar Khan,Bharat S Shah,Nana Patekar,Juhi Chawla,Jackie Shroff,Action,Crime,Drama
+panipat,34,92,U/A,6-Dec-19,135,Ashutosh Gowariker,Sunita Gowariker,Kriti Sanon,Arjun Kapoor,Sanjay Dutt,Action,Drama,History
+fitoor,16,71,U,11-Feb-16,131,Abhishek Kapoor,Siddharth Roy Kapur,Ajay Devgan,Katrina Kaif,Tabu Hashmi,Drama,Romance,Family
+happy-ending,22,57,U/A,20-Nov-14,136,Raj Nidimoru,Saif Ali Khan,Krishna D.k.,Krishna Dk,Ileana D'cruz,Comedy,Romance,NA
+the-vanished,3,19,U/A,13-Dec-19,135,Jeetu Joseph,Sunir Kheterpal,Emraan Hashmi,Rishi Kapoor,Sobhita Dhulipala,Comedy,Thriller,Mystery
+baabul,17,26,U,8-Dec-06,168,Ravi Chopra,Bharat S Shah,Rani Mukerji,John Abraham,Amitabh Bachchan,Drama,Family,Romance
+valentines-night,0.1,1,A,10-Feb-12,116,Baadal,Kirshan Kumar,Kirshan Kumar,Sangram Singh,Manoj Bakshi,Romance,Thriller,NA
+baaghi1,76,37,A,7-Apr-00,162,Rajesh Kumar Singh,Ramesh J Sharma,Sanjay Dutt,Manisha Koirala,Raj Babbar,Action,Romance,Crime
+chal-chalein,0.04,2,U/A,7-Aug-09,138,Ujjwal Singh,Mahesh Padalkar,Reema Worah,Anand Abhyankar,Mithun Chakraborty,Drama,NA,NA
+deewane-huye-paagal1,15,20,U/A,25-Nov-05,168,Vikram Bhatt,Firoz Nadiadwala,Akshay Kumar,Shahid Kapoor,Sunil Shetty,Action,Comedy,Drama
+commando-2-the-black-money-trail,34,26,U/A,2-Mar-17,149,Deven Bhojani,Arjun Thyagarajan,Sivakumar Jayakumar,Kajal Aggarwal,Akshara Haasan,Action,Adventure,Crime
+baar-baar-dekho,30,53,U/A,9-Sep-16,141,Nitya Mehra,Karan Johar,Sidharth Malhotra,Katrina Kaif,Taaha Shah Badusha,Comedy,Drama,Romance
+sunday-i,20,22,U/A,25-Jan-08,135,Rohit Shetty,Kumar Mangat Pathak,Ajay Devgan,Irrfan Khan,Ayesha Takia,Action,Comedy,Mystery
+aiyaary,17,57,U/A,15-Feb-18,160,Neeraj Pandey,Dhaval Gada,Sidharth Malhotra,Naseeruddin Shah,Anupam Kher,Action,Crime,Drama
+dekh-tamasha-dekh,0.18,2,A,18-Apr-14,151,Feroz Abbas Khan,Feroz Abbas Khan,Apoorva Arora,Alok Rajwade,Satish Alekar,Comedy,Action,NA
+tauba-tauba,3,2,A,1-Oct-04,135,Tlv Prasad,,Rocky Sandhu,Aayub Khan,Laxmikant Berde,Comedy,Drama,NA
+trump-card,0.05,1,A,12-Mar-10,135,Arshad Khan,Reema Gupta,Sheetal Bedi,Mansi Dovhal,Pankaj,Action,Drama,Mystery
+bumm-bumm-bole,0.97,7,U,14-May-10,133,Priyadarshan Nair,Satish Kaushik,Atul Kulkarni,Pooja Bose,Rituparna Sengupta,Action,Drama,Thriller
+ab-tak-chhappan-2,6,18,U/A,26-Feb-15,106,Aejaz Gulab,Ram Gopal Varma,Nana Patekar,Gul Panag,Hrishikesh Joshi,Action,Crime,Thriller
+dus-kahaniyaan,7,21,U/A,7-Dec-07,110,Apoorva Lakhia,Sanjay Dutt,Sanjay Gupta,Rohit Roy,Hansal Mehta,Adventure,Crime,Drama
+heroes,12,18,U/A,24-Oct-08,139,Samir Karnik,Bharat S Shah,Mithun Chakraborty,Salman Khan,Bobby Deol,Action,Adventure,Comedy
+one-two-three,17,14,U/A,28-Mar-08,141,Ashwani Dhir,Kumar Mangat Pathak,Ashwani Dheer,Irrfan Khan,Sunil Shetty,Comedy,Drama,Crime
+ekkees-toppon-ki-salaami,1,7,U/A,10-Oct-14,140,Ravindra Gautam,Jayantilal Gada,Anupam Kher,Divyendu Sharma,Uttara Baokar,Comedy,Drama,NA
+miley-naa-miley-hum1,0.7,13,U/A,4-Nov-11,128,Tanveer Khan,,Kangana Ranaut,Sagarika Ghatge,Chirag Paswan,Comedy,Drama,Romance
+ittefaq1,27,29,U/A,14-Sep-01,138,Sanjay Khanna,Ashu Nihalani,Sunil Shetty,Mukul Dev,Pooja Batra,Action,Comedy,Drama
+chaalis-chauraasi,2,9,U/A,13-Jan-12,120,Hriday Shetty,,Naseeruddin Shah,Atul Kulkarni,Kay Kay Menon,Comedy,Crime,NA
+khelein-hum-jee-jaan-sey,4,39,U/A,3-Dec-10,175,Ashutosh Gowariker,Ajay Bijli,Deepika Padukone,Abhishek Bachchan,Vikramjeet Virk,Action,Drama,History
+superstar,2,9,U,8-Feb-08,146,Rohit Jugraj,,Sanjay Dutt,Aushima Sawhney,Kunal Khemu,Drama,Romance,NA
+nanu-ki-jaanu,4,15,U/A,20-Apr-18,132,Faraz Haider,Sajid Qureshi,Abhay Deol,Patralekha Paul,Shreya Narayan,Action,Comedy,Drama
+naughty-40,1,10,A,29-Apr-11,108,Jag Mundhra,Anuj Sharma,Govinda,Anupam Kher,Yuvika Chaudhry,Comedy,Drama,NA
+humko-deewana-kar-gaye,14,17,U,13-Apr-06,160,Raj Kanwar,Bhushan Kumar,Akshay Kumar,Katrina Kaif,Bipasha Basu,Romance,Drama,NA
+break-ke-baad,16,22,U,25-Nov-10,118,Danish Aslam,Kunal Kohli,Deepika Padukone,Imran Khan,Sharmila Tagore,Comedy,Drama,Romance
+julie-2,2,8,A,24-Nov-17,159,Deepak S. Shivdasani,,Dev Gill,Rati Agnihotri,Raai Laxmi,Drama,Romance,Thriller
+ok-jaanu,21,27,U/A,12-Jan-17,137,Shaad Ali,Mani Ratnam,Shraddha Kapoor,Naseeruddin Shah,Aditya Roy Kapoor,Drama,Romance,NA
+zubaan,0.38,8,U/A,4-Mar-16,115,Mozez Singh,Guneet Monga,Abhimanyu Garg,Preeti Gupta,Sarah Jane Dias,Drama,Musical,Romance
+sheen,0.12,0.75,A,7-May-04,155,Ashoke Pandit,,Ashoke Pandit,Tarun Arora,Raj Babbar,Action,Drama,NA
+prassthanam1,5,39,U/A,20-Sep-19,141,Katta Deva,,Amyra Dastur,Satyajeet Dubey,Sanjay Dutt,Action,Drama,NA
+happy-husbands,0.38,3,A,25-Mar-11,134,Jaiveer,Suresh Sharma,Jai Veer,Anay,Mohit Ghai,Comedy,Drama,NA
+rajdhani-express,0.28,6,U,4-Jan-13,140,Ashok Kohli,Rajesh Patel,Jimmy Shergill,Puja Bose,Nishant Balgovind,Action,Drama,Thriller
+laaga-chunari-mein-daag-journey-of-a-woman,17,20,U/A,12-Oct-07,139,Pradeep Sarkar,Aditya Chopra,Rani Mukerji,Abhishek Bachchan,Anupam Kher,Drama,Family,Romance
+buddha-mar-gaya,2,3,U,17-Aug-07,93,Rahul Rawail,Sunil Lulla,Anupam Kher,Jitender Bhargava,Heenaa Biswas,Comedy,NA,NA
+chaarfutiya-chhokare,0.11,3,U/A,26-Sep-14,119,Manish Harishankar,Sunill Khosla,Harsh Mayar,Seema Biswas,Soha Ali Khan,Drama,Thriller,NA
+amaavas,3,2,A,7-Feb-19,135,Sidharth Srinivasan,Sujit Kumar Singh,Nargis Fakhri,Tara Sharma,Raina Sachiin Joshi,Horror,Drama,Romance
+behen-hogi-teri,2,13,U/A,9-Jun-17,128,Ajay K Pannanlal,Tony D Souza,Rajkummar Rao,Shruti Haasan,Gautam Gulati,Comedy,Drama,Romantic comedy
+allah-ke-banday,0.01,5,A,26-Nov-10,131,Faruk Kabir,Ravi Walia,Naseeruddin Shah,Sharman Joshi,Atul Kulkarni,Action,Crime,Drama
+balwinder-singh-famous-ho-gaya,0.42,7,U/A,26-Sep-14,136,Sunil Agnihotri,Mika Singh,Sunil Agnihotri,Anupam Kher,Sunny Leone,Comedy,Musical,NA
+kaalo,0.22,4,A,17-Dec-10,79,Wilson Louis,Mamta Patnaik,Raj Arjun,Sheela David,Tripta Parashar,Action,Drama,Horror
+mr-white-mr-black,2,11,U/A,2-May-08,130,Deepak S. Shivdasani,,Deepak S Shivdasani,Sunil Shetty,Arshad Warsi,Action,Comedy,Crime
+malaal1,3,16,U/A,4-Jul-19,136,Mangesh Hadawale,Sanjay Leela Bhansali,Sameer Dharmadhikari,Sanjay Gurbaxani,Ishwak Singh,Action,Romance,Drama
+simran,14,28,U/A,14-Sep-17,125,Hansal Mehta,Bhushan Kumar,Kangana Ranaut,Rupinder Nagra,Aneesha Joshi,Crime,Drama,Romance
+out-of-control,4,5,A,21-Nov-03,124,Apurva Asrani,Vashu Bhagnani,Ramanjit Juneja,Riteish Deshmukh,Hrishitaa Bhatt,Comedy,Drama,Romance
+bas-ek-pal,0.61,4,U/A,15-Sep-06,150,Onir Dhar,Shailesh R Singh,Juhi Chawla,Jimmy Shergill,Purab Kohli,Drama,Romance,Thriller
+love-breakups-zindagi,1,10,U/A,7-Oct-11,156,Sahil Sangha,Dia Mirza,Sahil Sangha,Shah Rukh Khan,Riteish Deshmukh,Comedy,Drama,Romance
+rush1,3,18,U/A,25-Oct-12,123,Shamin Desai,Mohammed Fasih,Emraan Hashmi,Sagarika Ghatge,Neha Dhupia,Crime,Thriller,Action
+bhoot-returns,4,7,U/A,12-Oct-12,85,Ram Gopal Varma,Nitin Manmohan,Manisha Koirala,J.d. Chakravarthi,Alayana Sharma,Horror,Thriller,Mystery
+hawaizaada,3,34,U,29-Jan-15,157,Vibhu Puri,Vibhu Puri,Mithun Chakraborty,Ayushmann Khurrana,Krutika Deo,Biography,Drama,Fantasy
+khamoshi2,6,6,U/A,14-Jun-19,135,Chakri Toleti,Vashu Bhagnani,Bhoomika Chawla,Tamanna Bhatia,Sanjay Suri,Horror,Thriller,Crime
+veerey-ki-wedding,2,16,U/A,1-Mar-18,130,Ashu Trikha,Rajat Bakshi,Jimmy Shergill,Kriti Kharbanda,Yuvika Chaudhry,Comedy,Romance,Drama
+dirty-politics,6,11,A,5-Mar-15,133,K.c. Bokadia,Nihal Farhat,Kc Bokadia,Naseeruddin Shah,Jackie Shroff,Drama,NA,NA
+nanhe-jaisalmer,0.42,5,U,14-Sep-07,112,Samir Karnik,,Bobby Deol,Vatsal Seth,Dwij Yadav,Comedy,Drama,Family
+darna-zaroori-hai,6,8,A,28-Apr-06,124,Ram Gopal Varma,Ram Gopal Varma,J.d. Chakravarthi,Jd Chakravarthi,Manish Gupta,Horror,Thriller,Drama
+money-hai-toh-honey-hai,3,18,U/A,25-Jul-08,137,Ganesh Acharya,Govind Agarwal,Govinda,Manoj Bajpayee,Hansika Motwani,Comedy,Drama,NA
+yeh-hai-bakrapur,0.16,5,U,9-May-14,95,Janaki Vishwanathan,Ramesh Sriivatsava Aruunachalam,Anshuman Jha,Amit Sial,Yoshika Verma,Comedy,Drama,NA
+baaghi-a-rebel-for-love,5,5,U/A,11-Dec-90,157,Deepak S. Shivdasani,,Salman Khan,Nagma Sadanah,Mohnish Bahl,Action,Romance,NA
+kaagaz-ke-fools,0.35,4,U/A,24-Apr-15,104,Anil Kumar Chaudhary,Faisal Kapadia,Mugdha Godse,Raima Sen,Vinay Pathak,Comedy,NA,NA
+chehraa,0.42,4,U/A,18-Feb-05,146,Saurabh Shukla,Dilkhush Doshi,Saurabh Shukla,Irrfan Khan,Bipasha Basu,Thriller,NA,NA
+click,1,7,A,19-Feb-10,127,Sangeeth Sivan,Sangeeth Sivan,Rehan Khan,Sada,Sneha Ullal,Drama,Horror,Mystery
+bullet-raja,32,52,U/A,28-Nov-13,159,Tigmanshu Dhulia,Rahul Mittra,Saif Ali Khan,Sonakshi Sinha,Jimmy Sheirgill,Action,Drama,Crime
+qasam-se-qasam-se,0.22,2,U/A,15-Jun-12,132,Ashfaque Makrani,Dharmendra Nath Thakur,Faith,Farhan,Omkar Das Manikpuri,Romance,NA,NA
+aisha-i,15,18,U,6-Aug-10,126,Rajshree Ojha,Anil Kapoor,Sonam Kapoor,Abhay Deol,Lisa Haydon,Comedy,Drama,Romance
+mujhse-dosti-karoge,12,12,U,8-Aug-02,148,Kunal Kohli,Yash Chopra,Rani Mukerji,Hrithik Roshan,Kareena Kapoor Khan,Musical,Romance,Drama
+total-siyappa,13,10,U/A,6-Mar-14,106,Eeshwar Nivas,,Anupam Kher,Yami Gautam,Ali Zafar,Comedy,Drama,Romance
+mehbooba1,2,22,U/A,10-Jul-08,162,Afzal Khan,Afzal Khan,Ajay Devgan,Sanjay Dutt,Manisha Koirala,Drama,Romance,Comedy
+utt-pataang,0.4,5,U,1-Feb-11,120,Srikanth Velagaleti,Aparna Joshi,Mahie Gill,Mona Singh,Vinay Pathak,Comedy,Drama,NA
+yeh-faasley,0.26,6,U/A,4-Mar-11,145,Yogesh Mittal,Omprakash Mittal,Anupam Kher,Seema Biswas,Pavan Malhotra,Crime,Drama,Mystery
+hum-tum-shabana,1,12,U/A,30-Sep-11,124,Sagar Ballary,Sameer Chand,Surveen Chawla,Tusshar Kapoor,Shreyas Talpade,Comedy,Crime,Drama
+junglee2,22,46,U/A,28-Mar-19,135,Rohan Sippy,Rohan Sippy,Chuck Russell,Raaghav Dar,Atul Kulkarni,Action,Adventure,Thriller
+pankh,0.15,5,A,2-Apr-10,98,Sudipto Chattopadhyay,Sanjay Gupta,Bipasha Basu,Ronit Roy,Lillete Dubey,Drama,NA,NA
+agyaat,5,8,A,7-Aug-09,130,Ram Gopal Varma,,Nithiin Kumar Reddy,Rasika Dugal,Gautam Rode,Drama,Horror,Mystery
+kya-love-story-hai,2,7,A,19-Apr-07,120,Lovely Singh,Nr Pachisia,Kareena Kapoor Khan,Ayesha Takia,Tusshar Kapoor,Comedy,Drama,Romance
+popcorn-khao-mast-ho-jao,0.89,2,U/A,1-Oct-04,143,Kabir Sadanand,Rangita Pritish Nandy,Akshay Kapoor,Tanishaa Mukerji,Deepak Tijori,Comedy,Drama,Romance
+gang-of-ghosts,1,16,U/A,20-Mar-14,129,Satish Kaushik,Bharat S Shah,Parambrata Chatterjee,Jackie Shroff,Anupam Kher,Comedy,Drama,Horror
+hijack,2,9,U/A,5-Sep-08,122,Kunal Shivdasani,Dinesh Vijan,Shiney Ahuja,Ishita Chauhan,Esha Deol,Action,Drama,Thriller
+machine,2,30,U/A,16-Mar-17,148,Abbas Alibhai Burmawalla,Dhaval Gada,Mastan Alibhai Burmawalla,Abbas Burmawalla,Mustan Burmawalla,Action,Mystery,Romance
+paisa-vasool,0.46,3,A,9-Jan-04,139,Srinivas Bhashyam,Manisha Koirala,Manisha Koirala,Sushmita Sen,Makrand Deshpande,Comedy,NA,NA
+kuch-kuch-locha-hai,2,15,A,8-May-15,144,Devang Dholakia,Alpesh D Jain,Navdeep Chhabra,Sunny Leone,Ram Kapoor,Comedy,Drama,NA
+the-shaukeens,18,41,U/A,6-Nov-14,125,Abhishek Sharma,Murad Khetani,Akshay Kumar,Kareena Kapoor Khan,Sunil Shetty,Comedy,NA,NA
+katti-batti,23,32,U/A,17-Sep-15,138,Nikhil Advani,Nikhil Advani,Kangana Ranaut,Imran Khan,Methalaka Gavin,Comedy,Romance,Drama
+o-teri,3,15,U/A,28-Mar-14,107,Umesh Bist,Atul Agnihotri,Umesh Bhisht,Salman Khan,Anupam Kher,Comedy,Drama,NA
+gori-tere-pyaar-mein,14,45,U/A,21-Nov-13,148,Punit Malhotra,Karan Johar,Shraddha Kapoor,Imran Khan,Kareena Kapoor Khan,Comedy,Drama,Romance
+zinda,10,13,A,12-Jan-06,128,Sanjay Gupta,Sanjay Gupta,John Abraham,Sanjay Dutt,Lara Dutta,Action,Drama,Mystery
+muskurake-dekh-zara,0.2,3,U,26-Mar-10,135,P Som Shekar,P Som Shekar,Twinkle Patel,Hiten Paintal,Atul Parchure,Comedy,Horror,Romance
+asambhav,3,13,A,23-Jul-04,150,Rajiv Rai,Gulshan Rai,Arjun Rampal,Priyanka Chopra,Naseeruddin Shah,Action,Adventure,Drama
+freaky-ali,13,23,U/A,9-Sep-16,120,Sohail Khan,Sohail Khan,Jackie Shroff,Amy Jackson,Seema Biswas,Comedy,Sport,Romantic comedy
+lafangey-parindey,22,19,U/A,20-Aug-10,124,Pradeep Sarkar,Aditya Chopra,Deepika Padukone,Juhi Chawla,Vijay Adhav,Action,Drama,Romance
+dhan-dhana-dhan-goal,13,19,U/A,23-Nov-07,165,Vivek Agnihotri,Ronnie Screwvala,John Abraham,Bipasha Basu,Arshad Warsi,Drama,Sport,NA
+ramayana-the-epic,0.98,7,U,15-Oct-10,98,Chetan Desai,Deepa Sahi,Juhi Chawla,Manoj Bajpayee,Ashutosh Rana,Animation,Adventure,Family
+road,7,6,A,27-Sep-02,144,Raj Mukherjee,Ram Gopal Varma,Manoj Bajpayee,Vivek Oberoi,Antara Mali,Thriller,NA,NA
+ragini-mms,10,6,A,13-May-11,93,Pawan Kripalani,Shobha Kapoor,Rajkummar Rao,Janice,Shernaza,Drama,Horror,Mystery
+nishabd,7,8,U/A,2-Mar-07,110,Ram Gopal Varma,Ram Gopal Varma,Amitabh Bachchan,Revathi,Jiah Khan,Drama,NA,NA
+daddy-cool-2009-hindi-film,5,13,A,28-Aug-09,102,K Muralimohana Rao,,Sunil Shetty,Aashish Chaudhary,Aftab Shivdasani,Comedy,Drama,NA
+mr-joe-b-carvalho,2,17,U/A,3-Jan-14,130,Samir Tewari,Bholaram Malviya,Soha Ali Khan,Naatak Amaan,Arshad Warsi,Comedy,Mystery,Thriller
+dil-juunglee,1,1,U/A,9-Mar-18,124,Aleya Sen,Vashu Bhagnani,Santosh Barmola,Saqib Saleem,Taapsee Pannu,Comedy,Romance,Drama
+desi-kattey,1,12,U/A,12-Sep-14,143,Anand Kumar,Anand Kumar,Sunil Shetty,Tia Bajpai,Sasha Aagha,Action,Drama,NA
+murder-3,18,15,U/A,14-Feb-13,124,Vishesh Bhatt,Mukesh Bhatt,Randeep Hooda,Sara Loren,Aditi Rao Hydari,Thriller,Drama,Mystery
+qaidi-band,0.35,21,U/A,24-Aug-17,119,Habib Faisal,Aditya Chopra,Jitin Gulati,Ram Kapoor,Sachin Dev Burman,Drama,Music,Musical
+karam,4,5,A,11-Mar-05,128,Sanjay Gupta,Harry Baweja,Sanjay F. Gupta,Priyanka Chopra,John Abraham,Crime,Drama,Thriller
+victory2,1,19,U/A,30-Jan-09,159,Ajit Pal Mangat,Manmohan Shetty,Anupam Kher,Brett Lee,Harman Baweja,Drama,Sport,NA
+bhoot-unkle,0.04,2,U,6-Oct-06,105,Mukesh Saigal,Aneesh Dev,Jackie Shroff,Abhishek,Sheela David,Family,Fantasy,Drama
+jo-bole-so-nihaal,8,15,U/A,13-May-05,125,Rahul Rawail,,Sunny Deol,Surekha Sikri,Arun Bakshi,Action,Comedy,NA
+contract,2,7,A,18-Jul-08,122,Ram Gopal Varma,Praveen Nischol,Sakshi Gulati,Kishore Kadam,Upendra Limaye,Action,Crime,Drama
+zokkomon,0.83,10,U,22-Apr-11,109,Satyajit Bhatkal,,Manjari Phadnis,Anupam Kher,Tinnu Anand,Action,Adventure,Drama
+helicopter-eela,4,24,U,11-Oct-18,132,Pradeep Sarkar,Ajay Devgan,Amitabh Bachchan,Kajol Devgn,Chirag Malhotra,Drama,NA,NA
+poster-boys,11,27,U/A,8-Sep-17,131,Shreyas Talpade,Deepti Talpade,Shreyas Talpade,Ajay Devgan,Bobby Deol,Comedy,Drama,NA
+apna-sapna-money-money,14,9,U,10-Nov-06,137,Sangeeth Sivan,Raju Farooqui,Riteish Deshmukh,Jackie Shroff,Sunil Shetty,Comedy,Musical,Romance
+rokkk,0.76,5,U/A,5-Mar-10,135,Rajesh Ranshinge,Krishan Choudhary,Tanushree Dutta,Shaad Randhawa,Udita Goswami,Drama,Horror,Mystery
+luck-i,21,37,U/A,25-Jul-09,141,Soham Shah,Dhaval Jatania,Imran Khan,Mithun Chakraborty,Sanjay Dutt,Action,Adventure,Drama
+teri-meri-kahaani,27,41,U/A,22-Jun-12,117,Kunal Kohli,Sunil Lulla,Shahid Kapoor,Priyanka Chopra,Neha Sharma,Comedy,Drama,Romance
+pyare-mohan,11,13,U/A,21-Apr-06,130,Indra Kumar,Indra Kumar,Kookie V Gulati,Fardeen Khan,Vivek Oberoi,Action,Comedy,Crime
+lucky-no-time-for-love,14,6,U,6-Apr-05,180,Radhika Rao,Bhushan Kumar,Vinay Sapru,Mithun Chakraborty,Salman Khan,Musical,Drama,Romance
+damadamm,0.65,5,U/A,27-Oct-11,117,Swapna Waghmare Joshi,,Swapna Joshi,Abir Goswami,Rajesh Khattar,Comedy,Drama,Romance
+chance-pe-dance,9,29,U,15-Jan-10,122,Ken Ghosh,Ronnie Screwvala,Shahid Kapoor,Genelia D Souza,Jimmy Sharma,Comedy,Drama,Musical
+challo-driver,0.09,3,U,20-Jul-12,135,Vickrant Mahajan,,Preet Bhatti,Prem Chopra,Kainaz Motivala,Comedy,Drama,NA
+raqeeb,1,6,U/A,18-May-07,124,Anurag Singh,Raj Kanwar,Anurag Singh,Jimmy Shergill,Sharman Joshi,Crime,Drama,Mystery
+sooper-se-ooper,0.08,2,U/A,25-Oct-13,103,Shekhar Ghosh,Rajneesh Lal,Deepak Dobriyal,Kirti Kulhari,Vir Das,Comedy,Drama,NA
+bittoo-boss,2,10,U/A,13-Apr-12,129,Supavitra Babul,,Wamiqa Gabbi,Pulkit Samrat,Sahil Vaid,Romance,Comedy,Drama
+pyaar-mein-twist,0.92,3,U,2-Sep-05,160,Hriday Shetty,,Rishi Kapoor,Soha Ali Khan,Dimple Kapadia,Comedy,Drama,Musical
+julie,9,5,A,23-Jul-04,144,Deepak S. Shivdasani,Nr Pachisia,Deepak S Shivdasani,Priyanshu Chatterjee,Sudhir Joshi,Drama,Romance,NA
+officer,3,5,A,14-Mar-01,139,Naeem Sha,,Sunil Shetty,Raveena Tandon,Sadashiv Amrapurkar,Action,Crime,Drama
+darling-iii,2,6,A,7-Sep-07,132,Ram Gopal Varma,Bhushan Kumar,Fardeen Khan,Upendra Limaye,Isha Koppikar,Drama,Horror,Romance
+chaar-din-ki-chandni,4,12,U,9-Mar-12,126,Samir Karnik,Samir Karnik,Anupam Kher,Tusshar Kapoor,Kulraj Randhawa,Comedy,Romance,NA
+bandook,0.15,4,A,18-Jan-13,134,Aditya Om,Aditya Singh,Manisha Kelkar,Arshad Khan,Ashish Kotwal,Crime,Thriller,NA
+department,11,32,U/A,17-May-12,141,Ram Gopal Varma,Ram Gopal Varma,Amitabh Bachchan,Sanjay Dutt,Rana Daggubati,Action,Crime,Drama
+jai-mummy-di,2,14,U/A,17-Jan-20,135,Navjot Gulati,Bhushan Kumar,Shiwani Saini,Poonam Dhillon,Sunny Singh Nijjar,Comedy,Drama,Romance
+life-express,0.04,1,U/A,17-Sep-10,125,Anup Das,Sanjay Kalate,Kiran Janjani,Divya Dutta,Vijayendra Ghatge,Drama,NA,NA
+aap-ki-khatir,6,16,U/A,25-Aug-06,135,Dharmesh Darshan,Bharat S Shah,Priyanka Chopra,Akshaye Khanna,Sunil Shetty,Comedy,Romance,Drama
+chamku,1,10,A,29-Aug-08,100,Kabeer Kaushik,Dharmendra,Priyanka Chopra,Irrfan Khan,Bobby Deol,Action,Crime,Drama
+ugly-aur-pagli,7,12,U/A,1-Aug-08,117,Sachin Kamlakar,Pritish Nandy,Pramod Goswami,Vihing Nayak,Mallika Sherawat,Comedy,Drama,NA
+sadiyaan-boundaries-divide-love-unites,0.51,18,U,2-Apr-10,161,Raj Kanwar,Raj Kanwar,Rishi Kapoor,Rekha Ganesan,Gurpreet Ghuggi,Drama,Romance,NA
+delhii-heights,0.7,4,U/A,30-Mar-07,120,R. Anand Kumar,Prabhu Ganesan,R Madhavan,Jimmy Shergill,Neha Dhupia,Drama,Romance,NA
+naksha,6,22,U/A,8-Sep-06,130,Sachin Bajaj,Akshay Bajaj,Anil Kapoor,Sunny Deol,Jackie Shroff,Action,Adventure,Fantasy
+john-day,1,9,A,12-Sep-13,138,Ahishor Solomon,Aatef A Khan,Naseeruddin Shah,Randeep Hooda,Kenneth Desai,Drama,Thriller,NA
+crook-film,10,23,U/A,8-Oct-10,119,Mohit Suri,Mahesh Bhatt,Emraan Hashmi,Neha Sharma,Mashhoor Amrohi,Action,Drama,Thriller
+youngistaan,6,28,U/A,27-Mar-14,133,Syed Ahmed Afzal,Vashu Bhagnani,Shah Rukh Khan,Vanya Joshi,Jacky Bhagnani,Drama,NA,NA
+ek-khiladi-ek-haseena,4,5,U/A,18-Nov-05,143,Suparn Verma,Pritish Nandy,Fardeen Khan,Kay Kay Menon,Mukul Dev,Comedy,Crime,Thriller
+pyaar-impossible,5,14,U,8-Jan-10,120,Jugal Hansraj,Aditya Chopra,Priyanka Chopra,Anupam Kher,Uday Chopra,Comedy,Romance,NA
+raabta,21,47,U/A,9-Jun-17,147,Dinesh Vijan,Homi Adajania,Sushant Singh Rajput,Kriti Sanon,Deepika Padukone,Comedy,Drama,Mystery
+whats-your-raashee,17,32,U/A,25-Sep-09,211,Ashutosh Gowariker,Ronnie Screwvala,Priyanka Chopra,Harman Baweja,Manju Singh,Comedy,Drama,Romance
+aladin,5,42,U,30-Oct-09,132,Sujoy Ghosh,Sunil Lulla,Amitabh Bachchan,Sanjay Dutt,Riteish Deshmukh,Action,Adventure,Comedy
+shaadi-no-1,11,15,U/A,3-Nov-05,136,David Dhawan,Vashu Bhagnani,Sanjay Dutt,Sharman Joshi,Fardeen Khan,Comedy,Drama,NA
+bhaiaji-superhit,4,26,U/A,23-Nov-18,139,Neeraj Pathak,Fauzia Arshi,Mithun Chakraborty,Sunny Deol,Preity Zinta,Action,Comedy,Thriller
+gippi,4,6,U/A,10-May-13,95,Sona Nair,Karan Johar,Acchui,Anjali,Taaha Shah Badusha,Comedy,Drama,NA
+hattrick,4,9,U/A,16-Mar-07,110,Milan Luthria,Ronnie Screwvala,John Abraham,Nana Patekar,Kunal Kapoor,Comedy,Drama,Romance
+one-night-stand-i,3,17,A,6-May-16,97,Jasmine Moses D'souza,Sandeep Shirodkar,Nyra Banerjee,Madhurima Banerjee,Tanuj Virwani,Drama,Romance,Thriller
+dhoondte-reh-jaoge,6,10,U/A,6-Mar-09,131,Umesh Shukla,Ronnie Screwvala,Soha Ali Khan,Deepal Shaw,Sonu Sood,Comedy,Drama,NA
+naqaab,12,19,U/A,13-Jul-07,124,Abbas Alibhai Burmawalla,Ramesh Sadhuram Taurani,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Crime,Drama,Romance
+paying-guests,5,11,U/A,19-Jun-09,109,Paritosh Painter,Subhash Ghai,Sayali Bhagat,Vatsal Seth,Shreyas Talpade,Comedy,Drama,NA
+dolly-ki-doli,11,21,U/A,22-Jan-15,98,Abhishek Dogra,Arbaaz Khan,Sonam Kapoor,Saif Ali Khan,Karan Ashar,Comedy,Romance,Romantic comedy
+war-chhod-na-yaar,6,17,U/A,11-Oct-13,119,Faraz Haider,,Sharman Joshi,Soha Ali Khan,Mukul Dev,Comedy,War,NA
+veer,1,1,U/A,22-Jan-10,163,Anil Sharma,Vijay Galani,Mithun Chakraborty,Salman Khan,Jackie Shroff,Action,Adventure,Drama
+will-you-marry-me,0.54,6,U/A,2-Mar-12,137,Aditya Datt,Krishan Chaudhery,Rajeev Khandelwal,Muzammil Ibrahim,Mugdha Godse,Comedy,NA,NA
+udaan1,1,2,U/A,3-Oct-97,139,Govardhan Asrani,Guddu Dhanoa,Saif Ali Khan,Rekha Ganesan,Mohnish Bahl,Action,Crime,Drama
+fatso,1,9,U/A,4-May-12,98,Rajat Kapoor,Pritish Nandy,Gul Panag,Purab Kohli,Neil Bhoopalam,Comedy,Romance,Fantasy
+naach,3,8,U/A,12-Nov-04,139,Ram Gopal Varma,Ram Gopal Varma,Abhishek Bachchan,Riteish Deshmukh,Antara Mali,Drama,Musical,Romance
+holiday1,0.79,3,U,10-Feb-06,135,Pooja Bhatt,Pooja Bhatt,Anahita Oberoi,Nauheed Cyrusi,Dino Morea,Drama,Musical,Romance
+mighty-raju-rio-calling,1,5,U,17-May-14,96,Rajiv Chilaka,Rajiv Chilaka,Rajiv Chilaka,Anirban Majumdar,Vatsal Dubey,Animation,NA,NA
+emi,5,17,U/A,7-Nov-08,129,Sanjay Khanna,,Saurabh Kabra,Arjun Rampal,Sanjay Dutt,Comedy,Crime,Drama
+mission-istaanbul,6,21,U/A,25-Jul-08,125,Apoorva Lakhia,Sunil Shetty,Abhishek Bachchan,Shriya Saran,Sunil Shetty,Action,Adventure,Drama
+tamanchey-pyar-mein-dil-pe-maar-de-goli,1,10,U/A,10-Oct-14,113,Navneet Behal,Suryaveer Bhullar,Richa Chadda,Nikhil Dwivedi,Damandeep Singh,Crime,Romance,NA
+dangerous-ishhq,5,26,U/A,11-May-12,129,Vikram Bhatt,Arun Rangachari,Jimmy Shergill,Karisma Kapoor,Ruslaan Mumtaz,Romance,Thriller,Fantasy
+nasha,3,8,A,26-Jul-13,122,Amit Saxena,Aditya Bhatia,Ranbir Chakma,Nikhil Desai,Raj Kesaria,Drama,Thriller,Romance
+prague,0.08,4,U/A,27-Sep-13,109,Ashish R. Shukla,Rohit Khaitan,Ashish Shukla,Kumar Mayank,Sonia Bindra,Mystery,Romance,Thriller
+chhodon-naa-yaar,0.19,3,U,5-Oct-07,130,Dilip Sood,Samir Gaikwad,Jimmy Shergill,Farid Amiri,Kim Sharma,Thriller,Drama,NA
+c-kkompany,3,10,U/A,29-Aug-08,132,Sachin Yardi,Ekta Kapoor,Mithun Chakraborty,Sanjay Dutt,Anupam Kher,Comedy,Drama,Thriller
+titoo-mba,0.1,2,U/A,21-Nov-14,111,Amit Vats,,Pragya Jaiswal,Nishant Dahiya,Nandini Singh,Comedy,Romance,NA
+jodi-breakers,9,21,U/A,24-Feb-12,133,Ashwini Chaudhary,,R Madhavan,Bipasha Basu,Omi Vaidya,Comedy,Musical,Romance
+junooniyat,3,12,U,24-Jun-16,129,Vivek Agnihotri,Bhushan Kumar,Yami Gautam,Gulshan Devaiah,Khushboo Upadhyay,Drama,Romance,NA
+badlapur-boys,0.8,7,U/A,12-Dec-14,123,Shailesh Verma,A Muthu,Saranya Mohan,Nishan Nanaiah,Saranya Mohan,Drama,Family,NA
+maatr,1,8,A,21-Apr-17,113,Ashtar Sayed,Anjum Rizvi,Siddharth Bharadwaj,Neetu Chaudhary,Ayesha Shiva,Thriller,Drama,NA
+do-knot-disturb,16,30,U/A,2-Oct-09,126,David Dhawan,Vashu Bhagnani,Govinda,Riteish Deshmukh,Sushmita Sen,Comedy,Drama,NA
+sarkar-3,9,36,U/A,11-May-17,132,Ram Gopal Varma,Gopal Dalvi,Amitabh Bachchan,Abhishek Bachchan,Jackie Shroff,Crime,Drama,Action
+sonali-cable,0.82,7,U/A,17-Oct-14,128,Charudutt Acharya,Rohan Sippy,Anupam Kher,Rhea Chakraborty,Raghav Juyal,Drama,Comedy,NA
+himmatwala-mithun,0.89,1,U/A,12-Dec-98,152,Jayant Gilatar,,Mithun Chakraborty,Ayesha Jhulka,Radhika Sarathkumar,Action,Drama,NA
+toonpur-ka-superrhero,5,25,U,24-Dec-10,95,Kireet Khurana,Krishika Lulla,Ajay Devgan,Kajol Devgn,Sanjay Dutt,Animation,Action,Adventure
+chingaari,1,5,A,17-Feb-06,160,Kalpana Lajmi,Kalpana Lajmi,Mithun Chakraborty,Ila Arun,Sushmita Sen,Drama,Action,NA
+kill-dil,29,40,U/A,13-Nov-14,128,Shaad Ali,Aditya Chopra,Ranveer Singh,Govinda,Parineeti Chopra,Action,Drama,Romance
+issaq,3,25,U/A,26-Jul-13,148,Manish Tiwary,Dhaval Gada,Amyra Dastur,Prateik Babbar,Ravi Kishan Shukla,Drama,Romance,NA
+tathastu,1,11,U/A,13-May-06,113,Anubhav Sinha,Nitin Manmohan,Sanjay Dutt,Ameesha Patel,Jaya Prada,Drama,Crime,Thriller
+chase,0.36,0.42,U/A,30-Apr-10,104,Jag Mundhra,Anuj Saxena,Udita Goswami,Shwetha Menon,Gulshan Grover,Action,Crime,Drama
+coffee-with-d,0.51,8,A,20-Jan-17,123,Vishal Mishra,Vinod Ramani,Dipannita Sharma,Zakir Hussain,Rajesh Sharma,Comedy,Crime,Drama
+ishqedarriyaan,6,10,U,15-May-15,131,V.k. Prakash,Rajesh Banga,Vk Prakash,Mimoh Chakraborty,Mohit Dutta,Romance,Drama,Family
+barefoot-to-goa,0.03,0.6,U,10-Apr-15,80,Praveen Morchhale,Praveen Morchhale,Farrukh Jaffar,Purva Parag,Nikita Shah,Adventure,Drama,Family
+chal-chala-chal,1,8,U,6-Feb-09,138,Rajeev Kumar,Dharmesh Rajkotia,Govinda,Reema Sen,Om Puri,Action,Comedy,Crime
+bombay-to-bangkok,1,7,U/A,18-Jan-08,125,Nagesh Kukunoor,Subhash Ghai,Naseeruddin Shah,Lena Christensen,Shreyas Talpade,Comedy,Drama,Romance
+zila-ghaziabad,23,36,U/A,22-Feb-13,132,Anand Kumar,Bharat S Shah,Sanjay Dutt,Shriya Saran,Vivek Oberoi,Action,Crime,Thriller
+shabri,0.11,3,A,26-Aug-11,89,Lalit Marathe,Ram Gopal Varma,Manish Wadhwa,Isha Koppikar,Urmila Matondkar,Action,Crime,Drama
+saheb-biwi-aur-gangster-3,7,28,A,27-Jul-18,140,Tigmanshu Dhulia,Tigmanshu Dhulia,Sanjay Dutt,Jimmy Shergill,Soha Ali Khan,Crime,Drama,Action
+yaraana,5,4,U,20-Oct-95,132,David Dhawan,Reema Rakesh Nath,Madhuri Dixit,Rishi Kapoor,Raj Babbar,Action,Drama,Musical
+shaapit-the-cursed,7,9,A,19-Mar-10,146,Vikram Bhatt,Vikram Bhatt,Shubh Joshi,Shweta Agarwal,Rahul Dev,Horror,Romance,Thriller
+calendar-girls,5,13,A,25-Sep-15,131,Madhur Bhandarkar,Sangeetha Ahir,Indraneil Sengupta,Avani Modi,Ruhi Singh,Drama,NA,NA
+dulha-mil-gaya,3,22,U,8-Jan-10,143,Mudassar Aziz,Vivek Vaswani,Shah Rukh Khan,Mohit Chadha,Fardeen Khan,Comedy,Drama,Romance
+alag-he-is-different-he-is-alone,0.39,8,U/A,16-Jun-06,122,Ashu Trikha,Subi Samuel,Jim Mulligan,Arjun Rampal,Priyanka Chopra,Drama,Sci-fi,Thriller
+prithvi,4,5,U/A,29-Aug-97,136,Nitin Manmohan,Nitin Manmohan,Nitin Manmohan,Sunil Shetty,Faraaz Khan,Action,Mystery,Thriller
+hate-story-iv,26,17,A,9-Mar-18,130,Vishal Pandya,Bhushan Kumar,Urvashi Rautela,Vivan Bhatena,Karan Wahi,Drama,Crime,Thriller
+tevar,35,54,U/A,8-Jan-15,159,Amit Sharma,Boney Kapoor,Sonakshi Sinha,Arjun Kapoor,Manoj Bajpayee,Action,Drama,Romance
+players,29,55,U/A,5-Jan-12,168,Abbas Alibhai Burmawalla,Suresh Vaswani,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Action,Crime,Thriller
+shabd,7,8,A,4-Feb-05,145,Leena Yadav,Pritish Nandy,Aishwarya Rai Bachchan,Sanjay Dutt,Zayed Khan,Drama,NA,NA
+jo-dooba-so-paar,0.24,6,U/A,14-Oct-11,90,P Praveen Kumar,,Sita Spada,Anmick,Rajat Kapoor,Comedy,Crime,Drama
+get-educated-paathshaala,17,14,U,16-Apr-10,126,Milind Ukey,Ahmed Khan,Shahid Kapoor,Nana Patekar,Sunil Shetty,Drama,Family,NA
+khamoshiyan,9,12,A,30-Jan-15,122,Karan Dara,Mahesh Bhatt,Sapna Pabbi,Ali Fazal,Gurmeet Choudhary,Drama,Horror,Romance
+paltan,7,35,U/A,6-Sep-18,154,Jp Dutta,Shariq Patel,Arjun Rampal,Abhishek Bachchan,Jackie Shroff,Action,Drama,History
+super-nani,2,18,U,30-Oct-14,133,Indra Kumar,Bharat S Shah,Rekha Ganesan,Anupam Kher,Anchal Dwivedi,Drama,Comedy,Family
+bengal-tiger,0.63,0.85,U/A,7-Mar-01,121,Adarsh Jain,Rishikesh Dhari Sinha,Mithun Chakraborty,Sandeep Bedi,Roshini Jaffery,Action,Crime,Drama
+love-games,3,10,A,8-Apr-16,114,Vikram Bhatt,Bhushan Kumar,Tara-alisha Berry,Gauri Arora,Patralekha Paul,Thriller,Drama,NA
+tere-bin-laden-dead-or-alive,3,13,U/A,26-Feb-16,104,Abhishek Sharma,Aarti Shetty,Sugandha Garg,Vikrant Chaturvedi,Iman Crosson,Comedy,Drama,NA
+zid1,0.42,0.75,U/A,7-Jan-94,129,Esmayeel Shroff,Pranlal V Mehta,Mala Sinha,Vijay Aidasani,Jay Mehta,Drama,Romance,NA
+bewafaa,16,18,U/A,24-Feb-05,151,Dharmesh Darshan,Boney Kapoor,Akshay Kumar,Kareena Kapoor Khan,Anil Kapoor,Drama,Romance,NA
+khandaani-shafakhana,4,26,U/A,2-Aug-19,138,Shilpi Dasgupta,Bhushan Kumar,Hobby Dhaliwal,Sonakshi Sinha,Diana Penty,Comedy,Drama,Musical
+guddu-rangeela,6,20,U/A,3-Jul-15,124,Subhash Kapoor,Sangeetha Ahir,Arshad Warsi,Amit Sadh,Aditi Rao Hydari,Comedy,Drama,NA
+i-see-you,1,8,U,29-Dec-06,124,Vivek Agrawal,Mehr Rampal,Vivek B Agrawal,Arjun Rampal,Hrithik Roshan,Comedy,Drama,Fantasy
+armaan,6,9,U,16-May-03,159,Honey Irani,Dinesh Gandhi,Amitabh Bachchan,Anil Kapoor,Preity Zinta,Drama,Family,Romance
+arjun-patiala,6,24,U/A,25-Jul-19,135,Rohit Jugraj,Bhushan Kumar,Kriti Sanon,Diljit Dosanjh,Himansh Kohli,Comedy,Drama,Romance
+sandwich,0.47,10,U/A,25-Aug-06,152,Anees Bazmee,Smita Thackeray,Govinda,Shammi Kapoor,Mahima Choudhary,Comedy,Thriller,Mystery
+shirin-farhad-ki-toh-nikal-padi,12,19,U/A,24-Aug-12,111,Bela Sehgal,Sunil Lulla,Boman Irani,Nauheed Cyrusi,Kavin Dave,Romance,Comedy,NA
+paranthe-wali-gali,0.07,1,U,17-Jan-14,101,Sachin Gupta,Sachin Gupta,Mohinder Gujral,Yuvraj Haral,Neha Pawar,Drama,Romance,Romantic comedy
+nawabzaade,4,10,U/A,27-Jul-18,112,Jayesh Pradhan,Remo D Souza,Varun Dhawan,Shraddha Kapoor,Isha Rikhi,Comedy,Romance,Romantic comedy
+sahi-dhandhe-galat-bande,0.7,7,U/A,19-Aug-11,119,Parvin Dabas,Preeti Jhangiani,Anupam Kher,Vansh Bhardwaj,Parvin Dabas,Action,Comedy,Drama
+dishkiyaoon,4,3,U/A,27-Mar-14,119,Sanamjit Singh Talwar,Shilpa Shetty Kundra,Sanamjit Talwar,Sunny Deol,Harman Baweja,Action,Thriller,Crime
+amit-sahni-ki-list,0.56,7,U/A,18-Jul-14,110,Ajay Bhuyan,Kavita Kulkarni,Anindita Nayar,Vega Tamotia,Vir Das,Comedy,Romance,Romantic comedy
+hate-story-2,22,15,A,18-Jul-14,130,Vishal Pandya,Bhushan Kumar,Jay Bhanushali,Surveen Chawla,Siddharth Kher,Drama,Thriller,Romance
+fanney-khan,10,39,U/A,3-Aug-18,129,Atul Manjrekar,Bhushan Kumar,Aishwarya Rai Bachchan,Anil Kapoor,Rajkummar Rao,Comedy,Drama,Musical
+khoobsurat1,8,6,U,26-Nov-99,162,Sanjay Chhel,Jhamu Sughand,Sanjay Dutt,Urmila Matondkar,Paresh Rawal,Comedy,Family,Action
+i-me-aur-main,8,20,U/A,28-Feb-13,108,Kapil Sharma,Goldie Behl,Kapil Sharma,John Abraham,Sheena Shahabadi,Comedy,Drama,Musical
+bajatey-raho,5,15,U/A,26-Jul-13,107,Shashant A Shah,Krishika Lulla,Tusshar Kapoor,Vishakha Singh,Ravi Kishan Shukla,Comedy,Drama,Thriller
+luv-u-soniyo,0.12,5,U,26-Jul-13,144,Joe Rajan,Joe Rajan,Amaan Khan,Neha Hinge,Bunty Grewal,Comedy,Romance,NA
+always-kabhi-kabhi,3,11,U,17-Jun-11,126,Roshan Abbas,Gauri Khan,Shah Rukh Khan,Satyajeet Dubey,Ali Fazal,Comedy,Crime,Drama
+veerappan,6,14,A,27-May-16,125,Ram Gopal Varma,Raina Sachiin Joshi,Sandeep Bharadwaj,Lisa Ray,Zarine Khan,Action,Biography,Crime
+mummy-punjabi,0.05,4,U/A,31-Aug-11,131,Pammi Somal,Kk Ravikumar,Lohith H,Jackie Shroff,Kiron Kher,Comedy,Drama,Horror
+nakshatra1,0.19,4,U/A,29-Oct-10,122,Mohan Savalkar,Ravindra Singh,Anupam Kher,Shubh Mukherjee,Gajendra Chouhan,Crime,Drama,Mystery
+haseena-parkar,6,18,U/A,21-Sep-17,123,Apoorva Lakhia,Nahid Khan,Shraddha Kapoor,Sharman Joshi,Ankur Bhatia,Biography,Crime,Thriller
+staying-alive1,0.01,1,U,3-Feb-12,135,Ananth Narayan Mahadevan,Ketan Maru,Saurabh Shukla,Manuj Bhaskar,Ssanjay Swaraaj,Drama,NA,NA
+koyelaanchal,1,14,A,9-May-14,146,Ashu Trikha,Ashu Trikha,Vinod Khanna,Sunil Shetty,Biswanath Basu,Action,Drama,NA
+indias-most-wanted,15,37,U/A,24-May-19,125,Raj Kumar Gupta,Vijay singh,Arjun Kapoor,Sudev Nair,Rajesh Sharma,Drama,Thriller,Action
+mahabharat1,1,25,U,27-Dec-13,125,Amaan Khan,Dhaval Gada,Vidya Balan,Ajay Devgan,Amitabh Bachchan,Animation,Action,Adventure
+mirzya,7,63,U/A,6-Oct-16,129,Rakeysh Omprakash Mehra,Rakeysh Omprakash Mehra,Harshvardhan Kapoor,Saiyami Kher,Anuj Choudhry,Drama,Musical,Romance
+god-tussi-great-ho,12,21,U,15-Aug-08,152,Rumi Jaffery,Afzal Khan,Priyanka Chopra,Amitabh Bachchan,Salman Khan,Comedy,Drama,Fantasy
+mumbai-mirror,1,18,U/A,18-Jan-13,136,Ankush Bhatt,Raina Sachiin Joshi,Prakash Raj,Vimala Raman,Raina Sachiin Joshi,Action,Crime,Thriller
+all-is-well,12,34,U,21-Aug-15,125,Umesh Shukla,Bhushan Kumar,Asin Thottumkal,Rishi Kapoor,Abhishek Bachchan,Adventure,Comedy,Drama
+sharafat-gayi-tel-lene,0.42,7,U/A,16-Jan-15,108,Gurmmeet Singh,Devinder Jain,Anupam Kher,Zayed Khan,Rannvijay Singh,Comedy,Drama,Thriller
+hum-tum-aur-ghost,4,21,U,26-Mar-10,125,Kabeer Kaushik,Arshad Warsi,Ritu Raj Singh,Arshad Warsi,Boman Irani,Comedy,Drama,Fantasy
+alone-vi,18,19,A,16-Jan-15,133,Bhushan Patel,Abhishek Pathak,Bipasha Basu,Karan Singh Grover,Nilima Priya,Horror,NA,NA
+luv-ka-the-end,5,8,U,6-May-11,106,Bumpy,Ashish Patil,Shraddha Kapoor,Meher Acharia-dar,Riya Bamniyal,Comedy,Drama,NA
+noor-i,6,24,U/A,20-Apr-17,117,Sunhil Sippy,Bhushan Kumar,Sonakshi Sinha,Purab Kohli,Sunny Leone,Comedy,Drama,NA
+main-aurr-mrs-khanna,7,38,U/A,16-Oct-09,109,Prem Soni,Sohail Khan,Deepika Padukone,Salman Khan,Kareena Kapoor Khan,Comedy,Drama,Romance
+marjaavaan,45,38,U/A,15-Nov-19,134,Milap Zaveri,Bhushan Kumar,Sidharth Malhotra,Riteish Deshmukh,Varinder Singh Ghuman,Action,Drama,Romance
+strangers,0.44,3,A,15-Dec-07,135,Aanand L. Rai,Uday Tiwari,Aanand L Rai,Jimmy Shergill,Nandana Sen,Drama,Romance,Thriller
+wajah-tum-ho,9,14,A,15-Dec-16,136,Vishal Pandya,,Sharman Joshi,Prarthana Behere,Sherlyn Chopra,Drama,Mystery,Romance
+policegiri,14,30,U/A,4-Jul-13,141,K.s. Ravikumar,Rahul Aggarwal,Ks Ravikumar,Sanjay Dutt,Prakash Raj,Action,Comedy,Drama
+what-the-fish,0.72,4,U/A,13-Dec-13,98,Gurmmeet Singh,Kr Harish,Mithun Rodwittiya,Dimple Kapadia,Deepti Pujari,Adventure,Comedy,Drama
+i-am-singh,0.32,9,U/A,2-Dec-11,150,Puneet Issar,Ps Thind,Aushima Sawhney,Tulip Joshi,Sunita Dhir,Action,Crime,Drama
+mokssh,0.03,0.5,U,27-Dec-13,100,Ajit P. Bhairavkar,Sunill Khosla,Ajit Bhairavkar,Sukhada Yash,Chinmay Mandlekar,Drama,Musical,NA
+yamla-pagla-deewana-2,30,46,U/A,6-Jun-13,155,Sangeeth Sivan,Dharmendra,Dharmendra,Bobby Deol,Sunny Deol,Action,Comedy,Drama
+cash,18,32,U/A,3-Aug-07,137,Anubhav Sinha,Anubhav Sinha,Ajay Devgan,Riteish Deshmukh,Sunil Shetty,Action,Drama,Thriller
+zoya-factor,2,33,U,20-Sep-19,136,Abhishek Sharma,Aarti Shetty,Sonam Kapoor,Anil Kapoor,Dulquer Salmaan,Romance,Drama,Comedy
+miss-tanakpur-haazir-ho,1,6,U/A,26-Jun-15,134,Vinod Kapri,Vinay Tiwari,Rahul Bagga,Ravi Kishan Shukla,Hrishitaa Bhatt,Comedy,Crime,Family
+ek-paheli-leela,18,23,A,10-Apr-15,144,Bobby Khan,Bhushan Kumar,Bobby Khan,Mohit Ahlawat,Jay Bhanushali,Mystery,Romance,Thriller
+72-hours-martyr-who-never-died,0.14,11,U/A,18-Jan-19,130,Avinash Dhyani,Prashil Rawat,Alka Amin,Gaurav Sharma,Sumit Gulati,Biography,War,Action
+tezz,15,52,U/A,27-Apr-12,123,Priyadarshan Nair,Ratan Jain,Mohanlal Viswanathan,Kangana Ranaut,Ajay Devgan,Crime,Drama,Thriller
+krazzy-4,19,18,U/A,11-Apr-08,110,Jaideep Sen,Rakesh Roshan,Hrithik Roshan,Irrfan Khan,Shah Rukh Khan,Comedy,Crime,Drama
+bhoot-and-friends,0.01,1,U,31-Dec-10,133,Karanjeet Saluja,,Kittu Saluja,Jackie Shroff,Ashish Kattar,Animation,Action,Adventure
+khwaabb,0.07,4,U,9-May-14,90,Zaid Ali Khan,Moraad Ali Khan,Nafisa Ali,Manoj Bakshi,Sidharth Bhardwaj,Drama,Romance,Sport
+payback,0.08,2,U/A,26-Nov-10,115,Sachin P. Karande,Sarosh Khan,Sachin P Karande,Hrishikesh Joshi,Sara Khan,Action,Crime,Drama
+satrangee-parachute,0.09,2,U,25-Feb-11,115,Vineet Khetrapal,Vineet Khetrapal,Jackie Shroff,Kay Kay Menon,Zakir Hussain,Comedy,Drama,Family
+hello-ii,12,14,U/A,10-Oct-08,129,Atul Agnihotri,Atul Agnihotri,Atul Agnihotri,Katrina Kaif,Salman Khan,Drama,Romance,NA
+just-married1,4,8,U/A,16-Mar-07,130,Meghna Gulzar,Pritish Nandy,Fardeen Khan,Perizaad Zorabian,Anitha,Comedy,Drama,Romance
+the-killer,4,7,A,21-Jul-06,122,Raksha Mistry,,Hasnain Hyderabadwala,Emraan Hashmi,Irrfan Khan,Action,Comedy,Crime
+pal-pal-dil-ke-paas,6,45,U/A,20-Sep-19,152,Sunny Deol,Sunny Deol,Madhu Kandhari Rajesh,Mannu Sandhu,Sachin Khedekar,Romance,Action,Drama
+fool-n-final,17,26,U,1-Jun-07,142,Ahmed Khan,Anurag Kashyap,Shahid Kapoor,Sunny Deol,Jackie Shroff,Action,Comedy,Romance
+life-is-beautiful1,0.06,2,U/A,22-Aug-14,116,Manoj Amarnani,Manoj Amarnani,Nancy Brunetta,Anokhi Dalvi,Parth Naik,Comedy,Romance,Action
+loveratri,18,27,U/A,4-Oct-18,139,Abhiraj Minawala,Salma Khan,Danny Mahoney,Ram Kapoor,Ronit Roy,Romance,Drama,Musical
+kuku-mathur-ki-jhand-ho-gayi,1,6,U,30-May-14,109,Aman Sachdeva,Bejoy Nambiar,Siddharth Gupta,Simran Kaur Mundi,Ashish Juneja,Comedy,Romance,Drama
+tere-mere-phere,0.5,4,U/A,30-Sep-11,124,Deepa Sahi,Ketan Mehta,Anup Jalota,Kriti Panth,Darshan Jariwala,Comedy,Drama,Romance
+great-grand-masti,14,39,A,15-Jul-16,127,Indra Kumar,Indra Kumar,Riteish Deshmukh,Puja Bose,Shraddha Das,Comedy,Drama,Fantasy
+pagalpanti1,33,72,U/A,22-Nov-19,165,Anees Bazmee,Bhushan Kumar,Ileana D'cruz,Kriti Kharbanda,John Abraham,Comedy,Drama,Action
+aiyyaa,6,19,U/A,11-Oct-12,148,Sachin Kundalkar,Anurag Kashyap,Prithviraj Sukumaran,Rani Mukerji,Subodh Bhave,Comedy,Romance,NA
+vaastu-shastra,6,5,A,22-Oct-04,106,Saurab Narang,Ram Gopal Varma,Purab Kohli,J.d. Chakravarthi,Sushmita Sen,Horror,Mystery,NA
+raaz-reboot,24,31,A,16-Sep-16,127,Vikram Bhatt,Bhushan Kumar,Emraan Hashmi,Trupti Agarwal,Gauri Arora,Horror,Mystery,Romance
+bangistan,5,29,U/A,7-Aug-15,135,Karan Anshuman,Farhan Akhtar,Riteish Deshmukh,Michalina Olszanska,Jacqueline Fernandez,Comedy,Drama,NA
+revolver-rani,8,27,U/A,24-Apr-14,132,Sai Kabir,Tigmanshu Dhulia,Kangana Ranaut,Jami Jafry,Vir Das,Action,Comedy,Crime
+1920-london,15,21,A,6-May-16,120,Dharmendra Suresh Desai,Vikram Bhatt,Tinu Suresh Desai,Sharman Joshi,Vishal Karwal,Horror,Mystery,NA
+jabariya-jodi,16,39,U/A,9-Aug-19,144,Prashant Singh,Ekta Kapoor,Prashant Singh,Sidharth Malhotra,Parineeti Chopra,Drama,Comedy,Romance
+sanam-re,21,27,U,12-Feb-16,120,Divya Khosla Kumar,Bhushan Kumar,Rishi Kapoor,Yami Gautam,Neel Tyagi,Drama,Romance,NA
+the-gentleman,4,3,U,18-Nov-94,140,Mahesh Bhatt,Bharat S Shah,Juhi Chawla,Chiranjeevi,Heera Rajgopal,Action,Drama,NA
+a-flying-jatt,30,55,U/A,25-Aug-16,151,Remo D Souza,Ekta Kapoor,Tiger Shroff,Shraddha Kapoor,Jacqueline Fernandez,Action,Adventure,Comedy
+aagey-se-right,3,6,A,4-Sep-09,122,Indrajit Nattooji,Ronnie Screwvala,Shiv Pandit,Kay Kay Menon,Mahie Gill,Comedy,Crime,Drama
+lekar-hum-deewana-dil,2,2,U/A,4-Jul-14,140,Arif Ali,Saif Ali Khan,Armaan Jain,Deeksha Seth,Neha Mahajan,Comedy,Romance,Drama
+yamla-pagla-deewana-phir-se,9,36,U/A,30-Aug-18,147,Navaniat Singh,Dhaval Gada,Sonakshi Sinha,Salman Khan,Dharmendra,Comedy,Action,Drama
+my-friend-pinto,1,9,U/A,14-Oct-11,100,Raaghav Dar,Sanjay Leela Bhansali,Kalki Koechlin,Prateik Babbar,Divya Dutta,Comedy,Crime,Drama
+tum-bin-2,6,12,U/A,17-Nov-16,147,Anubhav Sinha,Bhushan Kumar,Mouni Roy,Aashim Gulati,Neha Sharma,Drama,Romance,NA
+shakal-pe-mat-ja,0.5,4,A,18-Nov-11,140,Shubh Mukherjee,,Harsh Parekh,Chitrak Bandyopadhyay,Aamna Sharif,Comedy,Crime,Drama
+happy-phirr-bhag-jayegi,19,30,U/A,24-Aug-18,137,Mudassar Aziz,Aanand L Rai,Sonakshi Sinha,Jimmy Shergill,Gippy Grewal,Comedy,Romance,Drama
+aa-dekhen-zara,6,17,U/A,27-Mar-09,117,Jehangir Surti,Vikram Rajani,Bipasha Basu,Neil Nitin Mukesh,Biswajeet Chatterjee,Adventure,Sci-fi,Thriller
+fugly,10,18,U/A,12-Jun-14,135,Kabir Sadanand,Akshay Kumar,Jimmy Shergill,Mohit Marwah,Kiara Advani,Drama,Thriller,Comedy
+jo-hum-chahein,0.28,8,U/A,16-Dec-11,140,Pawan Gill,Aman Gill,Himanshu Kohli,Simran Kaur Mundi,Samar Virmani,Drama,Romance,NA
+genius1,4,25,U/A,24-Aug-18,164,Anil Sharma,Anil Sharma,Mithun Chakraborty,Dev Gill,Nawazuddin Siddiqui,Action,Thriller,Drama
+unforgettable,0.02,6,U,13-Jun-14,131,Arshad Yusuf Pathan,Arshad Yusuf Pathan,Patrick Haider,Armeena Rana Khan,Edward Heredia,Drama,Romance,NA
+bheja-fry-2,9,9,U/A,17-Jun-11,129,Sagar Ballary,Mukul Deora,Kay Kay Menon,Aditi Govitrikar,Rukhsar Rehman,Comedy,Drama,NA
+lucky-kabootar,0.31,7,U/A,18-Apr-14,117,Shammi Chhabra,Karan Raj Kanwar,Shraddha Das,Kulraj Randhawa,Ravi Kishan Shukla,Comedy,Romance,NA
+bolo-raam,0.22,4,U/A,31-Dec-09,103,Rakesh Chaturvedi Om,Goldy Bhutani,Naseeruddin Shah,Rishi Bhutani,Disha Pandey,Action,Crime,Drama
+heartless,0.87,11,U/A,7-Feb-14,131,Shekhar Suman,Alka Suman,Shekhar Suman,Adhyayan Suman,Deepti Naval,Drama,Family,Romance
+kismat,2,2,U/A,29-May-95,156,Harmesh Malhotra,,Rakhee Gulzar,Govinda,Kabir Bedi,Musical,Family,Drama
+mashooka,0.44,1,A,15-Jul-05,107,Afzal Ahmad,Afzal Ahmad,Aaditya Bal,Vidya Malvade,Usha Bachani,Drama,Musical,Romance
+setters,0.71,11,U,3-May-19,135,Ashwini Chaudhary,Vikash Mani,Siddharth Bharadwaj,Ishita Dutta,Sonalli Sehgall,Thriller,Drama,Crime
+impatient-vivek,0.12,2,U,7-Jan-11,113,Rahat Kazmi,,Hrishikesh Joshi,Sayali Bhagat,Muni Jha,Comedy,Drama,Romance
+darr-the-mall,5,16,A,21-Feb-14,125,Pawan Kripalani,Abhimanyu Singh,Jimmy Shergill,Nushrat Bharucha,Vikram Raj Bhardwaj,Horror,Thriller,NA
+mastizaade,17,30,A,29-Jan-16,119,Milap Zaveri,Ajay Rai,Riteish Deshmukh,Tusshar Kapoor,Vir Das,Comedy,Romantic comedy,NA
+milenge-milenge,6,12,U/A,9-Jul-10,144,Satish Kaushik,Boney Kapoor,Shahid Kapoor,Arjun Kapoor,Kareena Kapoor Khan,Drama,Romance,NA
+khushi-i,9,9,U/A,7-Feb-03,166,Surya S.j.,Boney Kapoor,Sj Surya,Sunil Agarwal,Sunil Kumar Agrawal,Action,Drama,Romance
+namaste-england,7,54,U/A,18-Oct-18,149,Vipul Amrutlal Shah,Vipul Amrutlal Shah,Arjun Kapoor,Parineeti Chopra,Aditya Seal,Comedy,Romance,Romantic comedy
+karzzzz,10,24,U,17-Oct-08,142,Satish Kaushik,Bhushan Kumar,Shweta Kumar,Raj Babbar,Urmila Matondkar,Action,Drama,Musical
+gali-gali-chor-hai,3,13,U/A,3-Feb-12,109,Rumi Jaffery,Nitin Manmohan,Akshaye Khanna,Shriya Saran,Mugdha Godse,Drama,Comedy,Family
+main-aur-mr-riight,0.29,4,U/A,12-Dec-14,129,Adeeb Rais,Pooja Gujral,Barun Sobti,Maia Sethna,Manav Bhinder,Comedy,Romance,Drama
+main-aisa-hi-hoon,2,7,U,6-May-05,162,Harry Baweja,Pammi Baweja,Ajay Devgan,Anupam Kher,Sushmita Sen,Drama,Musical,Family
+kyaa-kool-hain-hum-3,23,26,A,22-Jan-16,125,Umesh Ghadge,Ekta Kapoor,Umesh,Riteish Deshmukh,Krishna Abhishek,Comedy,Horror,Drama
+rog,2,3,A,7-Jan-05,124,Himanshu Brahmbhatt,Pooja Bhatt,Irrfan Khan,Himanshu Malik,Suhel Seth,Mystery,Romance,Thriller
+kyun-ho-gaya-na,7,10,U/A,13-Aug-04,165,Samir Karnik,Boney Kapoor,Kajal Aggarwal,Aishwarya Rai Bachchan,Amitabh Bachchan,Comedy,Drama,Romance
+tera-intezaar,1,11,A,12-Jan-19,108,Raajeev Walia,Bijal Mehta,Sunny Leone,Arya Babbar,Sudha Chandran,Romance,Thriller,Drama
+ram-gopal-varma-ki-aag,7,21,A,31-Aug-07,172,Ram Gopal Varma,Ram Gopal Varma,Mohanlal Viswanathan,Ajay Devgan,Amitabh Bachchan,Action,Adventure,Comedy
+chatur-singh-two-star,2,23,U/A,19-Aug-11,150,Ajay Chandhok,,Sanjay Dutt,Anupam Kher,Rati Agnihotri,Action,Adventure,Comedy
+himmatwala,0.89,1,U/A,28-Mar-13,150,Sajid Khan,Vashu Bhagnani,Tamanna Bhatia,Ajay Devgan,Sonakshi Sinha,Action,Comedy,Drama
+the-fakir-of-venice,0.16,1,U/A,8-Feb-19,135,Anand Surapur,Anand Surapur,Farhan Akhtar,Hunaid Pandrowala,Kamal Sidhu,Comedy,Drama,NA
